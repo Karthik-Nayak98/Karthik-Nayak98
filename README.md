@@ -49,7 +49,7 @@
     <a href="https://www.linkedin.com/in/karthik-nayak24">
         <img width="30px" alt="LinkedIn" src="https://github.com/KarthikNayak024/KarthikNayak024/blob/master/assets/linkedin.svg">&nbsp;
     </a>
-    <a href="karunayak63@gmail.com">
+    <a href="mailto:karunayak63@gmail.com?subject=Hello%20Karthik">
         <img width="36px" alt="gmail" src="https://github.com/KarthikNayak024/KarthikNayak024/blob/master/assets/gmail.svg">&nbsp;
     </a>
 </p>
