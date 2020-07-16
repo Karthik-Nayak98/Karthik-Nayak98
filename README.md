@@ -27,32 +27,32 @@
 > ## <p style="color:#F4511E;font-size:22px" align="center"> **Tech Stack** 👨‍💻️</p>
 
 <p align="center">
-        <img width="36px" alt="HTML" src="https://github.com/KarthikNayak024/KarthikNayak024/blob/master/assets/html5.svg">&nbsp;
-        <img width="36px" alt="CSS" src="assets/css3.svg">&nbsp;
-        <img width="36px" alt="JAVASCRIPT" src="assets/javascript.svg">&nbsp;
-        <img width="46px" alt="React" src="assets/react.svg">&nbsp;
-        <img width="40px" alt="c++" src="assets/c-plus.svg">
+        <img width="36px" alt="Html" src="https://github.com/KarthikNayak024/KarthikNayak024/blob/master/assets/html5.svg">&nbsp;
+        <img width="36px" alt="Css" src="https://github.com/KarthikNayak024/KarthikNayak024/blob/master/assets/css3.svg">&nbsp;
+        <img width="36px" alt="javascript" src="https://github.com/KarthikNayak024/KarthikNayak024/blob/master/assets/javascript.svg">&nbsp;
+        <img width="46px" alt="react" src="https://github.com/KarthikNayak024/KarthikNayak024/blob/master/assets/react.svg">&nbsp;
+        <img width="40px" alt="c++" src="https://github.com/KarthikNayak024/KarthikNayak024/blob/master/assets/c-plus.svg">&nbsp;
 </p>
 
 > ## <p align="center"> **Tools** 💻️ </p>
 
 <p align="center">
-        <img width="36px" alt="vim" src="assets/vim.svg">&nbsp;
-        <img width="36px" alt="vscode" src="assets/visual-studio-code.svg">&nbsp;
-        <img width="40px" alt="git" src="assets/github.svg">&nbsp;
-        <img width="36px" alt="linux" src="assets/linux.svg">
+        <img width="36px" alt="vim" src="https://github.com/KarthikNayak024/KarthikNayak024/blob/master/assets/vim.svg">&nbsp;
+        <img width="36px" alt="vscode" src="https://github.com/KarthikNayak024/KarthikNayak024/blob/master/assets/visual-studio-code.svg">&nbsp;
+        <img width="40px" alt="github" src="https://github.com/KarthikNayak024/KarthikNayak024/blob/master/assets/github.svg">&nbsp;
+        <img width="36px" alt="linux" src="https://github.com/KarthikNayak024/KarthikNayak024/blob/master/assets/linux.svg">&nbsp;
 </p>
 
 > ## <p style="color:#f4511e;" align="center"> **You can Reach me out** ☎️ </p>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/karthik-nayak24">
-        <img width="30px" alt="linkedin" src="assets/linkedin.svg">&nbsp;
+        <img width="30px" alt="LinkedIn" src="https://github.com/KarthikNayak024/KarthikNayak024/blob/master/assets/linkedin.svg">&nbsp;
     </a>
     <a href="karunayak63@gmail.com">
-        <img width="36px" alt="gmail" src="assets/gmail.svg">
+        <img width="36px" alt="gmail" src="https://github.com/KarthikNayak024/KarthikNayak024/blob/master/assets/gmail.svg">&nbsp;
     </a>
- </p>
+</p>
 
 <p align="center">
     [![Visitors](http://hits.dwyl.com/KarthikNayak024/KarthikNayak024.svg)](http://hits.dwyl.com/KarthikNayak024/KarthikNayak024)
