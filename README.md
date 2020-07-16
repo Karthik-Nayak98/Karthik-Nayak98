@@ -54,7 +54,7 @@
     </a>
 </p>
 
-<p align="center">
+<div align="center">
 
 <!-- ![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/KarthikNayak024/KarthikNayak024)] -->
 
