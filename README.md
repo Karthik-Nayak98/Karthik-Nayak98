@@ -55,10 +55,8 @@
 </p>
 
 <p align="center">
-    <a href="https://hits.seeyoufarm.com"/><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKarthikNayak024%2FKarthikNayak024"/></a>
-
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/KarthikNayak024/KarthikNayak024)<a href="https://hits.seeyoufarm.com"/><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKarthikNayak024%2FKarthikNayak024"/></a>]
-
+    ![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/KarthikNayak024/KarthikNayak024)]
+[![HitCount](http://hits.dwyl.com/KarthikNayak024/KarthikNayak024.svg)](http://hits.dwyl.com/KarthikNayak024/KarthikNayak024)
 </p>
 
 ---
