@@ -1,4 +1,4 @@
-> <p align="center" style="font-size:28px;font-weight:500"> Hello!! I'm Karthik Nayak 🎯️🚀️</p>
+> # <p align="center"> **Hello!! I'm Karthik Nayak** 🎯️🚀️</p>
 
 ---
 
@@ -34,7 +34,7 @@
         <img width="40px" alt="linkedin" src="assets/c-plus.svg">
 </p>
 
-> ## <p style="color:#F4511E;font-size:22px" align="center"> **Tools** 💻️ </p>
+> ## <p align="center"> **Tools** 💻️ </p>
 
 <p align="center">
         <img width="36px" alt="vim" src="assets/vim.svg">&nbsp;
@@ -43,10 +43,10 @@
         <img width="36px" alt="linux" src="assets/linux.svg">
 </p>
 
-> ## <p style="color:#f4511e;font-size:22px" align="center"> **You can Reach me out** ☎️ </p>
+> ## <p style="color:#f4511e;" align="center"> **You can Reach me out** ☎️ </p>
 
 <p align="center">
-    <a href="www.linkedin.com/in/karthik-nayak24">
+    <a href="https://www.linkedin.com/in/karthik-nayak24">
         <img width="30px" alt="linkedin" src="assets/linkedin.svg">&nbsp;
     </a>
     <a href="karunayak63@gmail.com">
@@ -55,7 +55,7 @@
  </p>
 
 <p align="center">
-    ![Total visitor](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=KarthikNayak024.KarthikNayak024)
+    [![Visitors](http://hits.dwyl.com/KarthikNayak024/KarthikNayak024.svg)](http://hits.dwyl.com/KarthikNayak024/KarthikNayak024)
 </p>
 
 ---
