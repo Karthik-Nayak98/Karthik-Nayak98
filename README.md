@@ -27,11 +27,11 @@
 > ## <p style="color:#F4511E;font-size:22px" align="center"> **Tech Stack** 👨‍💻️</p>
 
 <p align="center">
-        <img width="36px" alt="linkedin" src="assets/html5.svg">&nbsp;
-        <img width="36px" alt="linkedin" src="assets/css3.svg">&nbsp;
-        <img width="36px" alt="linkedin" src="assets/javascript.svg">&nbsp;
-        <img width="46px" alt="linkedin" src="assets/react.svg">&nbsp;
-        <img width="40px" alt="linkedin" src="assets/c-plus.svg">
+        <img width="36px" alt="HTML" src="https://github.com/KarthikNayak024/KarthikNayak024/blob/master/assets/html5.svg">&nbsp;
+        <img width="36px" alt="CSS" src="assets/css3.svg">&nbsp;
+        <img width="36px" alt="JAVASCRIPT" src="assets/javascript.svg">&nbsp;
+        <img width="46px" alt="React" src="assets/react.svg">&nbsp;
+        <img width="40px" alt="c++" src="assets/c-plus.svg">
 </p>
 
 > ## <p align="center"> **Tools** 💻️ </p>
@@ -39,7 +39,7 @@
 <p align="center">
         <img width="36px" alt="vim" src="assets/vim.svg">&nbsp;
         <img width="36px" alt="vscode" src="assets/visual-studio-code.svg">&nbsp;
-        <img width="40px" alt="vscode" src="assets/github.svg">&nbsp;
+        <img width="40px" alt="git" src="assets/github.svg">&nbsp;
         <img width="36px" alt="linux" src="assets/linux.svg">
 </p>
 
