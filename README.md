@@ -56,7 +56,9 @@
 
 <p align="center">
     ![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/KarthikNayak024/KarthikNayak024)]
+
 [![HitCount](http://hits.dwyl.com/KarthikNayak024/KarthikNayak024.svg)](http://hits.dwyl.com/KarthikNayak024/KarthikNayak024)
+
 </p>
 
 ---
