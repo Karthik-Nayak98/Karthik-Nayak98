@@ -11,8 +11,8 @@
 ## &nbsp; &nbsp; &nbsp; **About Me**👨‍🎓️
 
 - I'm aspiring 🔭️ Front-End Web Developer currently learning **ReactJs** library.
-- I always like working in 🐧️**Linux** Environment (Ubuntu).
-- I'm a knowledge seeker & I would love learning new **Technologies**.
+- I always like working in 🐧️**Linux** Environment.
+- I'm a knowledge seeker & I love to learn new **Technologies**.
 
 ### <p align="center">**Keep Learning** 😊️ </p>
 
