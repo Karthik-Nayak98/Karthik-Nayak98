@@ -1,6 +1,4 @@
-> # <p align="center"> **Hello!! I'm Karthik Nayak** 🎯️🚀️</p>
-
----
+# <p align="center">️ **Hello!!👋️ I'm Karthik Nayak** 🎯️🚀️</p>
 
 ---
 
@@ -10,64 +8,55 @@
 
 </br>
 
-- 🔭 I’m currently working on becoming FrontEnd Web Development.
-- 🌱 I’m currently learning ReactJs
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## &nbsp; &nbsp; &nbsp; **About Me**👨‍🎓️
+
+- I'm aspiring 🔭️ Front-End Web Developer currently learning **ReactJs** library.
+- I always like working in 🐧️**Linux** Environment (Ubuntu).
+- I'm a knowledge seeker & I would love learning new **Technologies**.
+
+### <p align="center">**Keep Learning** 😊️ </p>
+
+<!-- - 🌱 I’m currently learning ReactJs -->
+<!-- - 👯 I’m looking to collaborate on ... -->
+<!-- - 🤔 I’m looking for help with ... -->
+<!-- - 💬 Ask me about ... -->
+  <!-- - 😄 Pronouns: ... -->
+  <!-- - ⚡ Fun fact: ... -->
 
 </br> </br> </br>
+</br> </br> </br> </br>
 
 ---
 
----
+## **Tech Stack** 👨‍💻️
 
-> ## <p style="color:#F4511E;font-size:22px" align="center"> **Tech Stack** 👨‍💻️</p>
+ <img  align="right" src="https://github-readme-stats.vercel.app/api?username=KarthikNayak024&show_icons=true&text_color=fff&icon_color=00C853&title_color=FF6F00&bg_color=000">
 
-<p align="center">
-        <img width="36px" alt="Html" src="https://github.com/KarthikNayak024/KarthikNayak024/blob/master/assets/html5.svg">&nbsp;
-        <img width="36px" alt="Css" src="https://github.com/KarthikNayak024/KarthikNayak024/blob/master/assets/css3.svg">&nbsp;
-        <img width="36px" alt="javascript" src="https://github.com/KarthikNayak024/KarthikNayak024/blob/master/assets/javascript.svg">&nbsp;
-        <img width="46px" alt="react" src="https://github.com/KarthikNayak024/KarthikNayak024/blob/master/assets/react.svg">&nbsp;
-        <img width="40px" alt="c++" src="https://github.com/KarthikNayak024/KarthikNayak024/blob/master/assets/c-plus.svg">&nbsp;
-</p>
+<img width="36px" alt="html" src="https://github.com/KarthikNayak024/KarthikNayak024/blob/master/assets/html5.svg">&nbsp;
+<img width="36px" alt="css" src="https://github.com/KarthikNayak024/KarthikNayak024/blob/master/assets/css3.svg">&nbsp;
+<img width="36px" alt="javascript" src="https://github.com/KarthikNayak024/KarthikNayak024/blob/master/assets/javascript.svg">&nbsp;
+<img width="46px" alt="react" src="https://github.com/KarthikNayak024/KarthikNayak024/blob/master/assets/react.svg">&nbsp;
+<img width="40px" alt="c++" src="https://github.com/KarthikNayak024/KarthikNayak024/blob/master/assets/c-plus.svg">&nbsp;
 
-> ## <p align="center"> **Tools** 💻️ </p>
+## **Tools** 💻️
 
-<p align="center">
-        <img width="36px" alt="vim" src="https://github.com/KarthikNayak024/KarthikNayak024/blob/master/assets/vim.svg">&nbsp;
-        <img width="36px" alt="vscode" src="https://github.com/KarthikNayak024/KarthikNayak024/blob/master/assets/visual-studio-code.svg">&nbsp;
-        <img width="40px" alt="github" src="https://github.com/KarthikNayak024/KarthikNayak024/blob/master/assets/github.svg">&nbsp;
-        <img width="36px" alt="linux" src="https://github.com/KarthikNayak024/KarthikNayak024/blob/master/assets/linux.svg">&nbsp;
-</p>
+<img width="36px" alt="vim" src="https://github.com/KarthikNayak024/KarthikNayak024/blob/master/assets/vim.svg">&nbsp;
+<img width="36px" alt="vscode" src="https://github.com/KarthikNayak024/KarthikNayak024/blob/master/assets/visual-studio-code.svg">&nbsp;
+<img width="40px" alt="github" src="https://github.com/KarthikNayak024/KarthikNayak024/blob/master/assets/github.svg">&nbsp;
+<img width="36px" alt="linux" src="https://github.com/KarthikNayak024/KarthikNayak024/blob/master/assets/linux.svg">&nbsp;
 
-> ## <p style="color:#f4511e;" align="center"> **You can Reach me out** ☎️ </p>
+## **You can Reach me out** ☎️
 
-<p align="center">
-    <a href="https://www.linkedin.com/in/karthik-nayak24">
+<a href="https://www.linkedin.com/in/karthik-nayak24">
         <img width="30px" alt="LinkedIn" src="https://github.com/KarthikNayak024/KarthikNayak024/blob/master/assets/linkedin.svg">&nbsp;
-    </a>
-    <a href="mailto:karunayak63@gmail.com?subject=Hello%20Karthik">
+</a>
+
+<a href="mailto:karunayak63@gmail.com?subject=Hello%20Karthik">
         <img width="36px" alt="gmail" src="https://github.com/KarthikNayak024/KarthikNayak024/blob/master/assets/gmail.svg">&nbsp;
-    </a>
-</p>
-
-<div align="center">
-
-<!-- ![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/KarthikNayak024/KarthikNayak024)] -->
-
-[![HitCount](http://hits.dwyl.com/KarthikNayak024/KarthikNayak024.svg)](http://hits.dwyl.com/KarthikNayak024/KarthikNayak024)
-
-</p>
-
----
-
----
+</a>
 
 </br>
+</br>
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=KarthikNayak024&show_icons=true&text_color=000&icon_color=00C853&title_color=FF6F00">
-</p>
+<!-- [![Total Visitors](http://hits.dwyl.com/KarthikNayak024/KarthikNayak024.svg)](http://hits.dwyl.com/KarthikNayak024/KarthikNayak024) -->
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=karthiknayak024" alt="karthiknayak024" /> </p>
