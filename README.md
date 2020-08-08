@@ -8,6 +8,9 @@
 </a>
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=karthiknayak024&style=flat-square&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/KarthikNayak024/KarthikNayak024?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat-square">&nbsp;
+ <a href="https://github.com/KarthikNayak024/KarthikNayak024/actions">
+   <img alt="github-activity" src="https://github.com/KarthikNayak024/KarthikNayak024/workflows/update-gh-activity/badge.svg">
+  </a>
 </p>
 </br>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
@@ -58,8 +61,6 @@
 [<img src="https://img.shields.io/badge/Stackoverflow-karthik--nayak-informational?style=for-the-badge&labelColor=black&logo=stackoverflow&logoColor=f6511d&color=f6511d"/>][stackoverflow]
 [<img src="https://img.shields.io/badge/Github-karthikNayak024-informational?style=for-the-badge&labelColor=black&logo=github&color=7d88e6"/>][github]
 
-<<<<<<< HEAD
-=======
 ## **🔥️ Recent Github Activity:**
 
 <!--START_SECTION:activity-->
@@ -70,7 +71,6 @@
 5. 💪 Opened PR [#243](https://github.com//jayehernandez/letra-extension/pull/243) in [jayehernandez/letra-extension](https://github.com//jayehernandez/letra-extension)
 <!--END_SECTION:activity-->
 
->>>>>>> 06313cc935ddbe924aa6978c612a32e69e0044e5
 <!-- Links of Definitions -->
 
 [linkedin]: https://www.linkedin.com/in/karthik-nayak24
