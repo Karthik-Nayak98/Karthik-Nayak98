@@ -61,11 +61,11 @@
 </br>
 </br>
 
-<!-- <details>
+<details>
 <summary> 🔥 Recent Github Activities </summary>
 <!-- START_SECTION:activity -->
 <!-- END_SECTION:activity -->
-</details> -->
+</details>
 
 <!-- Links of Definitions -->
 
