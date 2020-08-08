@@ -26,7 +26,7 @@
 
 ---
 
-## 📈 **Github Stats**
+## 📈 **Github Stats:**
 
 <a href="https://github.com/KarthikNayak024">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=KarthikNayak024&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true">
@@ -39,7 +39,7 @@
 
 </br>
 
-## 🛠️ **Languages & Tools**
+## 🛠️ **Languages & Tools:**
 
 ![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
@@ -51,7 +51,7 @@
 ![VSCode](https://img.shields.io/badge/-vscode-00a8e8?style=for-the-badge&logo=visual-studio-code)
 ![Linux](https://img.shields.io/badge/-linux-000?style=for-the-badge&logo=linux)
 
-## 🌐 **Reach out to me** ️
+## 🌐 **Reach out to me:** ️
 
 [<img src="https://img.shields.io/badge/LinkedIn-karthik--nayak24-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=blue&&color=blue"/>][linkedin]
 [<img src="https://img.shields.io/badge/Gmail-karunayak63@gmail.com-informational?style=for-the-badge&labelColor=black&logoColor=d000000&logo=gmail&color=d00000"/>][gmail]
@@ -61,11 +61,10 @@
 </br>
 </br>
 
-<details>
-  <summary> 🔥 Recent Github Activities </summary>
-  <!-- START_SECTION:START -->
-  <!-- END_SECTION:END -->
-</details>
+### **🔥️ Recent Activity:**
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <!-- Links of Definitions -->
 
