@@ -58,6 +58,19 @@
 [<img src="https://img.shields.io/badge/Stackoverflow-karthik--nayak-informational?style=for-the-badge&labelColor=black&logo=stackoverflow&logoColor=f6511d&color=f6511d"/>][stackoverflow]
 [<img src="https://img.shields.io/badge/Github-karthikNayak024-informational?style=for-the-badge&labelColor=black&logo=github&color=7d88e6"/>][github]
 
+<<<<<<< HEAD
+=======
+## **🔥️ Recent Github Activity:**
+
+<!--START_SECTION:activity-->
+1. 🗣 Commented on [#14](https://github.com//antonkomarev/github-profile-views-counter/issues/14) in [antonkomarev/github-profile-views-counter](https://github.com//antonkomarev/github-profile-views-counter)
+2. ❗️ Opened issue [#55](https://github.com//badges/poser/issues/55) in [badges/poser](https://github.com//badges/poser)
+3. ❗️ Opened issue [#14](https://github.com//antonkomarev/github-profile-views-counter/issues/14) in [antonkomarev/github-profile-views-counter](https://github.com//antonkomarev/github-profile-views-counter)
+4. ❗️ Opened issue [#48](https://github.com//MikeCodesDotNET/ColoredBadges/issues/48) in [MikeCodesDotNET/ColoredBadges](https://github.com//MikeCodesDotNET/ColoredBadges)
+5. 💪 Opened PR [#243](https://github.com//jayehernandez/letra-extension/pull/243) in [jayehernandez/letra-extension](https://github.com//jayehernandez/letra-extension)
+<!--END_SECTION:activity-->
+
+>>>>>>> 06313cc935ddbe924aa6978c612a32e69e0044e5
 <!-- Links of Definitions -->
 
 [linkedin]: https://www.linkedin.com/in/karthik-nayak24
