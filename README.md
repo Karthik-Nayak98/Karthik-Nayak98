@@ -1,62 +1,78 @@
-# <p align="center">️ **Hello!!👋️ I'm Karthik Nayak** 🎯️🚀️</p>
+# <p align="center">️ **Hello !! <img src="https://raw.githubusercontent.com/KarthikNayak024/KarthikNayak024/master/assets/wave.gif" alt="waving hand" width="30px"> I'm Karthik Nayak** 🎯️🚀️</p>
 
 ---
 
+<p align="center">
+
+<img alt="Visitors" src="https://komarev.com/ghpvc/?username=karthiknayak024&style=flat-square&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
+<img alt="Last Commit" src="https://img.shields.io/github/last-commit/KarthikNayak024/KarthikNayak024?logo=markdown&labelColor=000000&label=LAST+UPDATE&color=29bf12&style=flat-square">&nbsp;
+
+</p>
 </br>
 
-<img align="right" alt="GIF" width="400" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
 
 </br>
 
-## &nbsp; &nbsp; &nbsp; **About Me**👨‍🎓️
+## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
-- I'm aspiring 🔭️ Front-End Web Developer currently learning **ReactJs** library.
+- I'm aspiring 🔭️ Front-End Web Developer currently learning 🌱 **ReactJs**.
 - I always like working in 🐧️**Linux** Environment.
-- I'm a knowledge seeker & I love to learn new **Technologies**.
+- I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
 
-### <p align="center">**Keep Learning** 😊️ </p>
+### &nbsp; &nbsp; &nbsp; &nbsp; **Keep Learning** 👨🏻‍🎓 ️
 
-<!-- - 🌱 I’m currently learning ReactJs -->
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... -->
-  <!-- - 😄 Pronouns: ... -->
-  <!-- - ⚡ Fun fact: ... -->
-
- </br>
- </br>
+</br>
+</br>
 
 ---
 
-## **Tech Stack** 👨‍💻️
+## 📈 **Github Stats**
 
- <img  align="right" src="https://github-readme-stats.vercel.app/api?username=KarthikNayak024&show_icons=true&text_color=fff&icon_color=00C853&title_color=FF6F00&bg_color=000">
-
-<img width="36px" alt="html" src="https://github.com/KarthikNayak024/KarthikNayak024/blob/master/assets/html5.svg">&nbsp;
-<img width="36px" alt="css" src="https://github.com/KarthikNayak024/KarthikNayak024/blob/master/assets/css3.svg">&nbsp;
-<img width="36px" alt="javascript" src="https://github.com/KarthikNayak024/KarthikNayak024/blob/master/assets/javascript.svg">&nbsp;
-<img width="46px" alt="react" src="https://github.com/KarthikNayak024/KarthikNayak024/blob/master/assets/react.svg">&nbsp;
-<img width="40px" alt="c++" src="https://github.com/KarthikNayak024/KarthikNayak024/blob/master/assets/c-plus.svg">&nbsp;
-
-## **Tools** 💻️
-
-<img width="36px" alt="vim" src="https://github.com/KarthikNayak024/KarthikNayak024/blob/master/assets/vim.svg">&nbsp;
-<img width="36px" alt="vscode" src="https://github.com/KarthikNayak024/KarthikNayak024/blob/master/assets/visual-studio-code.svg">&nbsp;
-<img width="40px" alt="github" src="https://github.com/KarthikNayak024/KarthikNayak024/blob/master/assets/github.svg">&nbsp;
-<img width="36px" alt="linux" src="https://github.com/KarthikNayak024/KarthikNayak024/blob/master/assets/linux.svg">&nbsp;
-
-## **You can Reach me out** ☎️
-
-<a href="https://www.linkedin.com/in/karthik-nayak24">
-        <img width="30px" alt="LinkedIn" src="https://github.com/KarthikNayak024/KarthikNayak024/blob/master/assets/linkedin.svg">&nbsp;
+<a href="https://github.com/KarthikNayak024">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=KarthikNayak024&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true">
+</a>
+</br>
+&nbsp;
+<a href="https://github.com/KarthikNayak024/github-readme-stats">
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=KarthikNayak024&layout=compact&theme=blue-green" />
 </a>
 
-<a href="mailto:karunayak63@gmail.com?subject=Hello%20Karthik">
-        <img width="36px" alt="gmail" src="https://github.com/KarthikNayak024/KarthikNayak024/blob/master/assets/gmail.svg">&nbsp;
-</a>
+</br>
+
+## 🛠️ **Languages & Tools**
+
+![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/-Javascript-ffb400?style=for-the-badge&logo=javascript&logoColor=ffff3f)
+![ReactJs](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react)
+![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
+
+![Vim](https://img.shields.io/badge/-VIM-2B9348?style=for-the-badge&logo=vim)
+![VSCode](https://img.shields.io/badge/-vscode-00a8e8?style=for-the-badge&logo=visual-studio-code)
+![Linux](https://img.shields.io/badge/-linux-000?style=for-the-badge&logo=linux)
+
+## 🌐 **Reach out to me** ️
+
+[<img src="https://img.shields.io/badge/LinkedIn-karthik--nayak24-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=blue&&color=blue"/>][linkedin]
+[<img src="https://img.shields.io/badge/Gmail-karunayak63@gmail.com-informational?style=for-the-badge&labelColor=black&logoColor=d000000&logo=gmail&color=d00000"/>][gmail]
+[<img src="https://img.shields.io/badge/Stackoverflow-karthik--nayak-informational?style=for-the-badge&labelColor=black&logo=stackoverflow&logoColor=f6511d&color=f6511d"/>][stackoverflow]
+[<img src="https://img.shields.io/badge/Github-karthikNayak024-informational?style=for-the-badge&labelColor=black&logo=github&color=7d88e6"/>][github]
 
 </br>
 </br>
 
-<!-- [![Total Visitors](http://hits.dwyl.com/KarthikNayak024/KarthikNayak024.svg)](http://hits.dwyl.com/KarthikNayak024/KarthikNayak024) -->
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=karthiknayak024" alt="karthiknayak024" /> </p>
+<details>
+<summary> 🔥 Recent Github Activities </summary>
+<!-- Start-Activites:START -->
+<!-- End-Activities:END -->
+</details>
+
+<!-- Links for markdown -->
+
+[linkedin]: https://www.linkedin.com/in/karthik-nayak24
+[gmail]: mailto:karunayak63@gmail.com "Lets connect through email"
+[stackoverflow]: https://stackoverflow.com/users/9395755/karthik-nayak
+[github]: https://github.com/KarthikNayak024
+
+[coding]:
