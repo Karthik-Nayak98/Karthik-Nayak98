@@ -4,16 +4,19 @@
 
 <p align="center">
 <a href="https://github.com/KarthikNayak024/KarthikNayak024/blob/master/LICENSE">
-<img alt="Licence" src="https://img.shields.io/github/license/KarthikNayak024/KarthikNayak024?color=brightgreen"/>
+<img alt="Licence" src="https://img.shields.io/github/license/KarthikNayak024/KarthikNayak024?color=brightgreen&label=LICENCE&style=flat-square"/>
 </a>
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=karthiknayak024&style=flat-square&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/KarthikNayak024/KarthikNayak024?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat-square">&nbsp;
+<a href="https://github.com/KarthikNayak024/KarthikNayak024/actions">
+<img alt="github-activity" src="https://github.com/KarthikNayak024/KarthikNayak024/workflows/update-gh-activity/badge.svg"/>
+</a>
 </p>
 </br>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
 </br>
 
-## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
+## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me:**
 
 - I'm aspiring 🔭️ Front-End Web Developer currently learning 🌱 **ReactJs**.
 - I always like working in 🐧️**Linux** Environment.
@@ -58,15 +61,12 @@
 [<img src="https://img.shields.io/badge/Stackoverflow-karthik--nayak-informational?style=for-the-badge&labelColor=black&logo=stackoverflow&logoColor=f6511d&color=f6511d"/>][stackoverflow]
 [<img src="https://img.shields.io/badge/Github-karthikNayak024-informational?style=for-the-badge&labelColor=black&logo=github&color=7d88e6"/>][github]
 
-### **🔥️ Recent Activity:**
+## **🔥Recent Github Activities:**
 
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com//antonkomarev/github-profile-views-counter/issues/14) in [antonkomarev/github-profile-views-counter](https://github.com//antonkomarev/github-profile-views-counter)
-2. ❗️ Opened issue [#55](https://github.com//badges/poser/issues/55) in [badges/poser](https://github.com//badges/poser)
-3. ❗️ Opened issue [#14](https://github.com//antonkomarev/github-profile-views-counter/issues/14) in [antonkomarev/github-profile-views-counter](https://github.com//antonkomarev/github-profile-views-counter)
-4. ❗️ Opened issue [#48](https://github.com//MikeCodesDotNET/ColoredBadges/issues/48) in [MikeCodesDotNET/ColoredBadges](https://github.com//MikeCodesDotNET/ColoredBadges)
-5. 💪 Opened PR [#243](https://github.com//jayehernandez/letra-extension/pull/243) in [jayehernandez/letra-extension](https://github.com//jayehernandez/letra-extension)
-<!--END_SECTION:activity-->
+<details >
+  <summary>👉️ Click Here </summary>
+  <!--START_SECTION:activity-->
+</details>
 
 <!-- Links of Definitions -->
 
