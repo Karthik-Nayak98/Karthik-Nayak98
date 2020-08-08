@@ -58,10 +58,6 @@
 [<img src="https://img.shields.io/badge/Stackoverflow-karthik--nayak-informational?style=for-the-badge&labelColor=black&logo=stackoverflow&logoColor=f6511d&color=f6511d"/>][stackoverflow]
 [<img src="https://img.shields.io/badge/Github-karthikNayak024-informational?style=for-the-badge&labelColor=black&logo=github&color=7d88e6"/>][github]
 
-## **🔥️ Recent Github Activity:**
-
-<!--START_SECTION:activity-->
-
 <!-- Links of Definitions -->
 
 [linkedin]: https://www.linkedin.com/in/karthik-nayak24
