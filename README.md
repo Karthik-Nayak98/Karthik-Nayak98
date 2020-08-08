@@ -1,17 +1,13 @@
-# <p align="center">️ **Hello !! <img src="https://raw.githubusercontent.com/KarthikNayak024/KarthikNayak024/master/assets/wave.gif" alt="waving hand" width="30px"> I'm Karthik Nayak** 🎯️🚀️</p>
+# <p align="center">️ **Hello!!<img src="https://raw.githubusercontent.com/KarthikNayak024/KarthikNayak024/master/assets/wave.gif" alt="waving hand" width="30px">I'm Karthik Nayak** 🎯️🚀️</p>
 
 ---
 
 <p align="center">
-
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=karthiknayak024&style=flat-square&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/KarthikNayak024/KarthikNayak024?logo=markdown&labelColor=000000&label=LAST+UPDATE&color=29bf12&style=flat-square">&nbsp;
-
 </p>
 </br>
-
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
-
 </br>
 
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
@@ -20,7 +16,7 @@
 - I always like working in 🐧️**Linux** Environment.
 - I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
 
-### &nbsp; &nbsp; &nbsp; &nbsp; **Keep Learning** 👨🏻‍🎓 ️
+### &nbsp; &nbsp; &nbsp; &nbsp; **Keep Learning** 👨‍🎓️️
 
 </br>
 </br>
@@ -68,11 +64,9 @@
 <!-- End-Activities:END -->
 </details>
 
-<!-- Links for markdown -->
+<!-- Links of Definitions -->
 
 [linkedin]: https://www.linkedin.com/in/karthik-nayak24
 [gmail]: mailto:karunayak63@gmail.com "Lets connect through email"
 [stackoverflow]: https://stackoverflow.com/users/9395755/karthik-nayak
 [github]: https://github.com/KarthikNayak024
-
-[coding]:
