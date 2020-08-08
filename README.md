@@ -63,8 +63,8 @@
 
 <!-- <details>
 <summary> 🔥 Recent Github Activities </summary>
-<!-- START_SECTION:START -->
-<!-- END_SECTION:END -->
+<!-- START_SECTION:activity -->
+<!-- END_SECTION:activity -->
 </details> -->
 
 <!-- Links of Definitions -->
