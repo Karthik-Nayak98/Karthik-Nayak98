@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-<a href="https://github.com/KarthikNayak024/KarthikNayak024/blob/master/LICENSE">
+<a href="https://github.com/KarthikNayak024/KarthikNayak024/blob/master/LICENCE">
 <img alt="Licence" src="https://img.shields.io/github/license/KarthikNayak024/KarthikNayak024?color=brightgreen"/>
 </a>
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=karthiknayak024&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
