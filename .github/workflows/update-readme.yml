@@ -3,6 +3,7 @@ on:
   schedule:
     # Runs every 30 minutes
     - cron: "*/10 * * * *"
+  workflow_dispatch:
 
 jobs:
   update-readme-github-activities:
