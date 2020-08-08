@@ -1,72 +1,72 @@
-1. 🗣 Commented on [#14](https://github.com//antonkomarev/github-profile-views-counter/issues/14) in [antonkomarev/github-profile-views-counter](https://github.com//antonkomarev/github-profile-views-counter)
+# <p align="center">️ **Hello!!<img src="https://raw.githubusercontent.com/KarthikNayak024/KarthikNayak024/master/assets/wave.gif" alt="waving hand" width="30px">I'm Karthik Nayak** 🎯️🚀️</p>
 
-2. ❗️ Opened issue [#55](https://github.com//badges/poser/issues/55) in [badges/poser](https://github.com//badges/poser)
+---
 
-3. ❗️ Opened issue [#14](https://github.com//antonkomarev/github-profile-views-counter/issues/14) in [antonkomarev/github-profile-views-counter](https://github.com//antonkomarev/github-profile-views-counter)
-4. ❗️ Opened issue [#48](https://github.com//MikeCodesDotNET/ColoredBadges/issues/48) in [MikeCodesDotNET/ColoredBadges](https://github.com//MikeCodesDotNET/ColoredBadges)
-5. 💪 Opened PR [#243](https://github.com//jayehernandez/letra-extension/pull/243) in [jayehernandez/letra-extension](https://github.com//jayehernandez/letra-extension)
-6. undefined
-7. undefined
-8. undefined
-9. undefined
+<p align="center">
+<img alt="Visitors" src="https://komarev.com/ghpvc/?username=karthiknayak024&style=flat-square&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
+<img alt="Last Commit" src="https://img.shields.io/github/last-commit/KarthikNayak024/KarthikNayak024?logo=markdown&labelColor=000000&label=LAST+UPDATE&color=29bf12&style=flat-square">&nbsp;
+</p>
+</br>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
+</br>
 
-10. undefined
+## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
-11. undefined
-12. undefined
-13. undefined
+- I'm aspiring 🔭️ Front-End Web Developer currently learning 🌱 **ReactJs**.
+- I always like working in 🐧️**Linux** Environment.
+- I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
 
-14. undefined
+### &nbsp; &nbsp; &nbsp; &nbsp; **Keep Learning** 👨‍🎓️️
 
-15. undefined
-16. undefined
+</br>
+</br>
 
-17. undefined
+---
 
-18. undefined
+## 📈 **Github Stats**
 
-19. undefined
-20. undefined
-21. undefined
-22. undefined
-23. undefined
-24. undefined
-25. undefined
-26. undefined
+<a href="https://github.com/KarthikNayak024">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=KarthikNayak024&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true">
+</a>
+</br>
+&nbsp;
+<a href="https://github.com/KarthikNayak024/github-readme-stats">
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=KarthikNayak024&layout=compact&theme=blue-green" />
+</a>
 
-27. undefined
+</br>
 
-28. undefined
+## 🛠️ **Languages & Tools**
 
-29. undefined
-30. undefined
-31. undefined
-32. undefined
-33. undefined
+![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/-Javascript-ffb400?style=for-the-badge&logo=javascript&logoColor=ffff3f)
+![ReactJs](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react)
+![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
 
-34. undefined
-35. undefined
-36. undefined
+![Vim](https://img.shields.io/badge/-VIM-2B9348?style=for-the-badge&logo=vim)
+![VSCode](https://img.shields.io/badge/-vscode-00a8e8?style=for-the-badge&logo=visual-studio-code)
+![Linux](https://img.shields.io/badge/-linux-000?style=for-the-badge&logo=linux)
 
-37. undefined
+## 🌐 **Reach out to me** ️
 
-38. undefined
-39. undefined
-40. undefined
-41. undefined
+[<img src="https://img.shields.io/badge/LinkedIn-karthik--nayak24-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=blue&&color=blue"/>][linkedin]
+[<img src="https://img.shields.io/badge/Gmail-karunayak63@gmail.com-informational?style=for-the-badge&labelColor=black&logoColor=d000000&logo=gmail&color=d00000"/>][gmail]
+[<img src="https://img.shields.io/badge/Stackoverflow-karthik--nayak-informational?style=for-the-badge&labelColor=black&logo=stackoverflow&logoColor=f6511d&color=f6511d"/>][stackoverflow]
+[<img src="https://img.shields.io/badge/Github-karthikNayak024-informational?style=for-the-badge&labelColor=black&logo=github&color=7d88e6"/>][github]
 
-42. undefined
-43. undefined
+</br>
+</br>
 
-44. undefined
-45. undefined
-46. undefined
-47. undefined
-48. undefined
+<details>
+<summary> 🔥 Recent Github Activities </summary>
+<!-- START_SECTION:START -->
+<!-- END_SECTION:END -->
+</details>
 
-49. undefined
+<!-- Links of Definitions -->
 
-50. undefined
-51. undefined
-52. undefined
-53. undefined
+[linkedin]: https://www.linkedin.com/in/karthik-nayak24
+[gmail]: mailto:karunayak63@gmail.com "Lets connect through email"
+[stackoverflow]: https://stackoverflow.com/users/9395755/karthik-nayak
+[github]: https://github.com/KarthikNayak024
