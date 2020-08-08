@@ -3,8 +3,11 @@
 ---
 
 <p align="center">
+<a href="https://github.com/KarthikNayak024/KarthikNayak024/blob/master/LICENSE">
+<img alt="Licence" src="https://img.shields.io/github/license/KarthikNayak024/KarthikNayak024?color=brightgreen"/>
+</a>
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=karthiknayak024&style=flat-square&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
-<img alt="Last Commit" src="https://img.shields.io/github/last-commit/KarthikNayak024/KarthikNayak024?logo=markdown&labelColor=000000&label=LAST+UPDATE&color=29bf12&style=flat-square">&nbsp;
+<img alt="Last Commit" src="https://img.shields.io/github/last-commit/KarthikNayak024/KarthikNayak024?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat-square">&nbsp;
 </p>
 </br>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
@@ -58,11 +61,11 @@
 </br>
 </br>
 
-<details>
+<!-- <details>
 <summary> 🔥 Recent Github Activities </summary>
 <!-- START_SECTION:START -->
 <!-- END_SECTION:END -->
-</details>
+</details> -->
 
 <!-- Links of Definitions -->
 
@@ -70,3 +73,4 @@
 [gmail]: mailto:karunayak63@gmail.com "Lets connect through email"
 [stackoverflow]: https://stackoverflow.com/users/9395755/karthik-nayak
 [github]: https://github.com/KarthikNayak024
+[licence]: https://github.com/KarthikNayak024/KarthikNayak024/blob/master/LICENSE
