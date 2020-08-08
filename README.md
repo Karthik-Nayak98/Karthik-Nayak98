@@ -6,8 +6,8 @@
 <a href="https://github.com/KarthikNayak024/KarthikNayak024/blob/master/LICENSE">
 <img alt="Licence" src="https://img.shields.io/github/license/KarthikNayak024/KarthikNayak024?color=brightgreen"/>
 </a>
-<img alt="Visitors" src="https://komarev.com/ghpvc/?username=karthiknayak024&style=flat-square&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
-<img alt="Last Commit" src="https://img.shields.io/github/last-commit/KarthikNayak024/KarthikNayak024?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat-square">
+<img alt="Visitors" src="https://komarev.com/ghpvc/?username=karthiknayak024&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
+<img alt="Last Commit" src="https://img.shields.io/github/last-commit/KarthikNayak024/KarthikNayak024?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
  <a href="https://github.com/KarthikNayak024/KarthikNayak024/actions">
    <img alt="github-activity" src="https://github.com/KarthikNayak024/KarthikNayak024/workflows/update-gh-activity/badge.svg">
   </a>
@@ -23,7 +23,6 @@
 - I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
 
 ### &nbsp; &nbsp; &nbsp; &nbsp; **Keep Learning** 👨‍🎓️️
-
 
 ---
 
@@ -59,10 +58,10 @@
 [<img src="https://img.shields.io/badge/Github-karthikNayak024-informational?style=for-the-badge&labelColor=black&logo=github&color=7d88e6"/>][github]
 [<img src="https://img.shields.io/badge/Stackoverflow-karthik--nayak-informational?style=for-the-badge&labelColor=black&logo=stackoverflow&logoColor=f6511d&color=f6511d"/>][stackoverflow]
 
-
 ## **🔥️ Recent Github Activity:**
 
 <!--START_SECTION:activity-->
+
 1. 🗣 Commented on [#14](https://github.com//antonkomarev/github-profile-views-counter/issues/14) in [antonkomarev/github-profile-views-counter](https://github.com//antonkomarev/github-profile-views-counter)
 2. ❗️ Opened issue [#55](https://github.com//badges/poser/issues/55) in [badges/poser](https://github.com//badges/poser)
 3. ❗️ Opened issue [#14](https://github.com//antonkomarev/github-profile-views-counter/issues/14) in [antonkomarev/github-profile-views-counter](https://github.com//antonkomarev/github-profile-views-counter)
