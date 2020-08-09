@@ -62,11 +62,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#14](https://github.com//antonkomarev/github-profile-views-counter/issues/14) in [antonkomarev/github-profile-views-counter](https://github.com//antonkomarev/github-profile-views-counter)
-2. ❗️ Opened issue [#55](https://github.com//badges/poser/issues/55) in [badges/poser](https://github.com//badges/poser)
-3. ❗️ Opened issue [#14](https://github.com//antonkomarev/github-profile-views-counter/issues/14) in [antonkomarev/github-profile-views-counter](https://github.com//antonkomarev/github-profile-views-counter)
-4. ❗️ Opened issue [#48](https://github.com//MikeCodesDotNET/ColoredBadges/issues/48) in [MikeCodesDotNET/ColoredBadges](https://github.com//MikeCodesDotNET/ColoredBadges)
-5. 💪 Opened PR [#243](https://github.com//jayehernandez/letra-extension/pull/243) in [jayehernandez/letra-extension](https://github.com//jayehernandez/letra-extension)
+1. ❗️ Opened issue [#344](https://github.com//anuraghazra/github-readme-stats/issues/344) in [anuraghazra/github-readme-stats](https://github.com//anuraghazra/github-readme-stats)
+2. 🗣 Commented on [#14](https://github.com//antonkomarev/github-profile-views-counter/issues/14) in [antonkomarev/github-profile-views-counter](https://github.com//antonkomarev/github-profile-views-counter)
+3. ❗️ Opened issue [#55](https://github.com//badges/poser/issues/55) in [badges/poser](https://github.com//badges/poser)
+4. ❗️ Opened issue [#14](https://github.com//antonkomarev/github-profile-views-counter/issues/14) in [antonkomarev/github-profile-views-counter](https://github.com//antonkomarev/github-profile-views-counter)
+5. ❗️ Opened issue [#48](https://github.com//MikeCodesDotNET/ColoredBadges/issues/48) in [MikeCodesDotNET/ColoredBadges](https://github.com//MikeCodesDotNET/ColoredBadges)
 <!--END_SECTION:activity-->
 
 <!-- Links of Definitions -->
