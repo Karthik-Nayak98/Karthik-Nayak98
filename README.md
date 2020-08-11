@@ -64,10 +64,10 @@
 <!--START_SECTION:activity-->
 
 1. 🗣 Commented on [#360](https://github.com//anuraghazra/github-readme-stats/issues/360) in [anuraghazra/github-readme-stats](https://github.com//anuraghazra/github-readme-stats)
-2. ❗️ Opened issue [#360](https://github.com//anuraghazra/github-readme-stats/issues/360) in [anuraghazra/github-readme-stats](https://github.com//anuraghazra/github-readme-stats)
-3. 🗣 Commented on [#344](https://github.com//anuraghazra/github-readme-stats/issues/344) in [anuraghazra/github-readme-stats](https://github.com//anuraghazra/github-readme-stats)
-4. ❗️ Closed issue [#344](https://github.com//anuraghazra/github-readme-stats/issues/344) in [anuraghazra/github-readme-stats](https://github.com//anuraghazra/github-readme-stats)
-5. ❗️ Opened issue [#344](https://github.com//anuraghazra/github-readme-stats/issues/344) in [anuraghazra/github-readme-stats](https://github.com//anuraghazra/github-readme-stats)
+2. 🗣 Commented on [#360](https://github.com//anuraghazra/github-readme-stats/issues/360) in [anuraghazra/github-readme-stats](https://github.com//anuraghazra/github-readme-stats)
+3. ❗️ Opened issue [#360](https://github.com//anuraghazra/github-readme-stats/issues/360) in [anuraghazra/github-readme-stats](https://github.com//anuraghazra/github-readme-stats)
+4. 🗣 Commented on [#344](https://github.com//anuraghazra/github-readme-stats/issues/344) in [anuraghazra/github-readme-stats](https://github.com//anuraghazra/github-readme-stats)
+5. ❗️ Closed issue [#344](https://github.com//anuraghazra/github-readme-stats/issues/344) in [anuraghazra/github-readme-stats](https://github.com//anuraghazra/github-readme-stats)
 <!--END_SECTION:activity-->
 
 <!-- Links of Definitions -->
