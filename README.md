@@ -63,11 +63,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#344](https://github.com//anuraghazra/github-readme-stats/issues/344) in [anuraghazra/github-readme-stats](https://github.com//anuraghazra/github-readme-stats)
-2. ❗️ Closed issue [#344](https://github.com//anuraghazra/github-readme-stats/issues/344) in [anuraghazra/github-readme-stats](https://github.com//anuraghazra/github-readme-stats)
-3. ❗️ Opened issue [#344](https://github.com//anuraghazra/github-readme-stats/issues/344) in [anuraghazra/github-readme-stats](https://github.com//anuraghazra/github-readme-stats)
-4. 🗣 Commented on [#14](https://github.com//antonkomarev/github-profile-views-counter/issues/14) in [antonkomarev/github-profile-views-counter](https://github.com//antonkomarev/github-profile-views-counter)
-5. ❗️ Opened issue [#55](https://github.com//badges/poser/issues/55) in [badges/poser](https://github.com//badges/poser)
+1. ❗️ Opened issue [#360](https://github.com//anuraghazra/github-readme-stats/issues/360) in [anuraghazra/github-readme-stats](https://github.com//anuraghazra/github-readme-stats)
+2. 🗣 Commented on [#344](https://github.com//anuraghazra/github-readme-stats/issues/344) in [anuraghazra/github-readme-stats](https://github.com//anuraghazra/github-readme-stats)
+3. ❗️ Closed issue [#344](https://github.com//anuraghazra/github-readme-stats/issues/344) in [anuraghazra/github-readme-stats](https://github.com//anuraghazra/github-readme-stats)
+4. ❗️ Opened issue [#344](https://github.com//anuraghazra/github-readme-stats/issues/344) in [anuraghazra/github-readme-stats](https://github.com//anuraghazra/github-readme-stats)
+5. 🗣 Commented on [#14](https://github.com//antonkomarev/github-profile-views-counter/issues/14) in [antonkomarev/github-profile-views-counter](https://github.com//antonkomarev/github-profile-views-counter)
 <!--END_SECTION:activity-->
 
 <!-- Links of Definitions -->
