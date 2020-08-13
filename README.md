@@ -61,10 +61,10 @@
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#99](https://github.com//manrajgrover/SingleDivProject/pull/99) in [manrajgrover/SingleDivProject](https://github.com//manrajgrover/SingleDivProject)
-2. 💪 Opened PR [#99](https://github.com//manrajgrover/SingleDivProject/pull/99) in [manrajgrover/SingleDivProject](https://github.com//manrajgrover/SingleDivProject)
-3. ❗️ Opened issue [#368](https://github.com//anuraghazra/github-readme-stats/issues/368) in [anuraghazra/github-readme-stats](https://github.com//anuraghazra/github-readme-stats)
-4. 🗣 Commented on [#360](https://github.com//anuraghazra/github-readme-stats/issues/360) in [anuraghazra/github-readme-stats](https://github.com//anuraghazra/github-readme-stats)
+1. 💪 Opened PR [#100](https://github.com//manrajgrover/SingleDivProject/pull/100) in [manrajgrover/SingleDivProject](https://github.com//manrajgrover/SingleDivProject)
+2. ❌ Closed PR [#99](https://github.com//manrajgrover/SingleDivProject/pull/99) in [manrajgrover/SingleDivProject](https://github.com//manrajgrover/SingleDivProject)
+3. 💪 Opened PR [#99](https://github.com//manrajgrover/SingleDivProject/pull/99) in [manrajgrover/SingleDivProject](https://github.com//manrajgrover/SingleDivProject)
+4. ❗️ Opened issue [#368](https://github.com//anuraghazra/github-readme-stats/issues/368) in [anuraghazra/github-readme-stats](https://github.com//anuraghazra/github-readme-stats)
 5. 🗣 Commented on [#360](https://github.com//anuraghazra/github-readme-stats/issues/360) in [anuraghazra/github-readme-stats](https://github.com//anuraghazra/github-readme-stats)
 <!--END_SECTION:activity-->
 
