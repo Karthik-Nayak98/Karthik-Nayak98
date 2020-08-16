@@ -61,11 +61,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#56](https://github.com//EddieJaoudeCommunity/awesome-github-profiles/issues/56) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com//EddieJaoudeCommunity/awesome-github-profiles)
-2. 🗣 Commented on [#55](https://github.com//badges/poser/issues/55) in [badges/poser](https://github.com//badges/poser)
+1. 💪 Opened PR [#57](https://github.com//EddieJaoudeCommunity/awesome-github-profiles/pull/57) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com//EddieJaoudeCommunity/awesome-github-profiles)
+2. ❗️ Opened issue [#56](https://github.com//EddieJaoudeCommunity/awesome-github-profiles/issues/56) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com//EddieJaoudeCommunity/awesome-github-profiles)
 3. 🗣 Commented on [#55](https://github.com//badges/poser/issues/55) in [badges/poser](https://github.com//badges/poser)
-4. 💪 Opened PR [#101](https://github.com//manrajgrover/SingleDivProject/pull/101) in [manrajgrover/SingleDivProject](https://github.com//manrajgrover/SingleDivProject)
-5. ❌ Closed PR [#100](https://github.com//manrajgrover/SingleDivProject/pull/100) in [manrajgrover/SingleDivProject](https://github.com//manrajgrover/SingleDivProject)
+4. 🗣 Commented on [#55](https://github.com//badges/poser/issues/55) in [badges/poser](https://github.com//badges/poser)
+5. 💪 Opened PR [#101](https://github.com//manrajgrover/SingleDivProject/pull/101) in [manrajgrover/SingleDivProject](https://github.com//manrajgrover/SingleDivProject)
 <!--END_SECTION:activity-->
 
 <!-- Links of Definitions -->
