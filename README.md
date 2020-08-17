@@ -61,11 +61,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#2](https://github.com//arturssmirnovs/github-profile-views-counter/issues/2) in [arturssmirnovs/github-profile-views-counter](https://github.com//arturssmirnovs/github-profile-views-counter)
-2. 🗣 Commented on [#57](https://github.com//EddieJaoudeCommunity/awesome-github-profiles/issues/57) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com//EddieJaoudeCommunity/awesome-github-profiles)
-3. 💪 Opened PR [#57](https://github.com//EddieJaoudeCommunity/awesome-github-profiles/pull/57) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com//EddieJaoudeCommunity/awesome-github-profiles)
-4. ❗️ Opened issue [#56](https://github.com//EddieJaoudeCommunity/awesome-github-profiles/issues/56) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com//EddieJaoudeCommunity/awesome-github-profiles)
-5. 🗣 Commented on [#55](https://github.com//badges/poser/issues/55) in [badges/poser](https://github.com//badges/poser)
+1. 🗣 Commented on [#360](https://github.com//anuraghazra/github-readme-stats/issues/360) in [anuraghazra/github-readme-stats](https://github.com//anuraghazra/github-readme-stats)
+2. ❗️ Opened issue [#2](https://github.com//arturssmirnovs/github-profile-views-counter/issues/2) in [arturssmirnovs/github-profile-views-counter](https://github.com//arturssmirnovs/github-profile-views-counter)
+3. 🗣 Commented on [#57](https://github.com//EddieJaoudeCommunity/awesome-github-profiles/issues/57) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com//EddieJaoudeCommunity/awesome-github-profiles)
+4. 💪 Opened PR [#57](https://github.com//EddieJaoudeCommunity/awesome-github-profiles/pull/57) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com//EddieJaoudeCommunity/awesome-github-profiles)
+5. ❗️ Opened issue [#56](https://github.com//EddieJaoudeCommunity/awesome-github-profiles/issues/56) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com//EddieJaoudeCommunity/awesome-github-profiles)
 <!--END_SECTION:activity-->
 
 <!-- Links of Definitions -->
