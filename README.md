@@ -61,11 +61,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#16](https://github.com//puf17640/git-badges/issues/16) in [puf17640/git-badges](https://github.com//puf17640/git-badges)
-2. 🗣 Commented on [#360](https://github.com//anuraghazra/github-readme-stats/issues/360) in [anuraghazra/github-readme-stats](https://github.com//anuraghazra/github-readme-stats)
-3. ❗️ Opened issue [#2](https://github.com//arturssmirnovs/github-profile-views-counter/issues/2) in [arturssmirnovs/github-profile-views-counter](https://github.com//arturssmirnovs/github-profile-views-counter)
-4. 🗣 Commented on [#57](https://github.com//EddieJaoudeCommunity/awesome-github-profiles/issues/57) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com//EddieJaoudeCommunity/awesome-github-profiles)
-5. 💪 Opened PR [#57](https://github.com//EddieJaoudeCommunity/awesome-github-profiles/pull/57) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com//EddieJaoudeCommunity/awesome-github-profiles)
+1. 🗣 Commented on [#16](https://github.com//puf17640/git-badges/issues/16) in [puf17640/git-badges](https://github.com//puf17640/git-badges)
+2. 🗣 Commented on [#16](https://github.com//puf17640/git-badges/issues/16) in [puf17640/git-badges](https://github.com//puf17640/git-badges)
+3. 🗣 Commented on [#16](https://github.com//puf17640/git-badges/issues/16) in [puf17640/git-badges](https://github.com//puf17640/git-badges)
+4. ❗️ Opened issue [#16](https://github.com//puf17640/git-badges/issues/16) in [puf17640/git-badges](https://github.com//puf17640/git-badges)
+5. 🗣 Commented on [#360](https://github.com//anuraghazra/github-readme-stats/issues/360) in [anuraghazra/github-readme-stats](https://github.com//anuraghazra/github-readme-stats)
 <!--END_SECTION:activity-->
 
 <!-- Links of Definitions -->
