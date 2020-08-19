@@ -61,10 +61,10 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#3467](https://github.com//simple-icons/simple-icons/issues/3467) in [simple-icons/simple-icons](https://github.com//simple-icons/simple-icons)
-2. 🗣 Commented on [#72](https://github.com//vinitshahdeo/PortScanner/issues/72) in [vinitshahdeo/PortScanner](https://github.com//vinitshahdeo/PortScanner)
-3. 🗣 Commented on [#48](https://github.com//vinitshahdeo/PortScanner/issues/48) in [vinitshahdeo/PortScanner](https://github.com//vinitshahdeo/PortScanner)
-4. 🗣 Commented on [#72](https://github.com//vinitshahdeo/PortScanner/issues/72) in [vinitshahdeo/PortScanner](https://github.com//vinitshahdeo/PortScanner)
+1. 🗣 Commented on [#3462](https://github.com//simple-icons/simple-icons/issues/3462) in [simple-icons/simple-icons](https://github.com//simple-icons/simple-icons)
+2. ❗️ Closed issue [#3467](https://github.com//simple-icons/simple-icons/issues/3467) in [simple-icons/simple-icons](https://github.com//simple-icons/simple-icons)
+3. 🗣 Commented on [#3467](https://github.com//simple-icons/simple-icons/issues/3467) in [simple-icons/simple-icons](https://github.com//simple-icons/simple-icons)
+4. ❗️ Opened issue [#3467](https://github.com//simple-icons/simple-icons/issues/3467) in [simple-icons/simple-icons](https://github.com//simple-icons/simple-icons)
 5. 🗣 Commented on [#72](https://github.com//vinitshahdeo/PortScanner/issues/72) in [vinitshahdeo/PortScanner](https://github.com//vinitshahdeo/PortScanner)
 <!--END_SECTION:activity-->
 
