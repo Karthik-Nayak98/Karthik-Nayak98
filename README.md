@@ -61,11 +61,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#16](https://github.com//puf17640/git-badges/issues/16) in [puf17640/git-badges](https://github.com//puf17640/git-badges)
-2. 🗣 Commented on [#16](https://github.com//puf17640/git-badges/issues/16) in [puf17640/git-badges](https://github.com//puf17640/git-badges)
-3. 🗣 Commented on [#16](https://github.com//puf17640/git-badges/issues/16) in [puf17640/git-badges](https://github.com//puf17640/git-badges)
-4. ❗️ Opened issue [#16](https://github.com//puf17640/git-badges/issues/16) in [puf17640/git-badges](https://github.com//puf17640/git-badges)
-5. 🗣 Commented on [#360](https://github.com//anuraghazra/github-readme-stats/issues/360) in [anuraghazra/github-readme-stats](https://github.com//anuraghazra/github-readme-stats)
+1. 🗣 Commented on [#72](https://github.com//vinitshahdeo/PortScanner/issues/72) in [vinitshahdeo/PortScanner](https://github.com//vinitshahdeo/PortScanner)
+2. 🗣 Commented on [#48](https://github.com//vinitshahdeo/PortScanner/issues/48) in [vinitshahdeo/PortScanner](https://github.com//vinitshahdeo/PortScanner)
+3. 🗣 Commented on [#72](https://github.com//vinitshahdeo/PortScanner/issues/72) in [vinitshahdeo/PortScanner](https://github.com//vinitshahdeo/PortScanner)
+4. 🗣 Commented on [#72](https://github.com//vinitshahdeo/PortScanner/issues/72) in [vinitshahdeo/PortScanner](https://github.com//vinitshahdeo/PortScanner)
+5. 🗣 Commented on [#16](https://github.com//puf17640/git-badges/issues/16) in [puf17640/git-badges](https://github.com//puf17640/git-badges)
 <!--END_SECTION:activity-->
 
 <!-- Links of Definitions -->
