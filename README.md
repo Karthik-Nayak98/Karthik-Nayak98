@@ -61,11 +61,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#8](https://github.com//plibither8/made-with-love-in/issues/8) in [plibither8/made-with-love-in](https://github.com//plibither8/made-with-love-in)
-2. ❗️ Opened issue [#7](https://github.com//plibither8/made-with-love-in/issues/7) in [plibither8/made-with-love-in](https://github.com//plibither8/made-with-love-in)
-3. 🗣 Commented on [#3462](https://github.com//simple-icons/simple-icons/issues/3462) in [simple-icons/simple-icons](https://github.com//simple-icons/simple-icons)
-4. ❗️ Opened issue [#3475](https://github.com//simple-icons/simple-icons/issues/3475) in [simple-icons/simple-icons](https://github.com//simple-icons/simple-icons)
-5. 🗣 Commented on [#3462](https://github.com//simple-icons/simple-icons/issues/3462) in [simple-icons/simple-icons](https://github.com//simple-icons/simple-icons)
+1. 🗣 Commented on [#712](https://github.com//spring-cloud/spring-cloud-task/issues/712) in [spring-cloud/spring-cloud-task](https://github.com//spring-cloud/spring-cloud-task)
+2. ❗️ Opened issue [#8](https://github.com//plibither8/made-with-love-in/issues/8) in [plibither8/made-with-love-in](https://github.com//plibither8/made-with-love-in)
+3. ❗️ Opened issue [#7](https://github.com//plibither8/made-with-love-in/issues/7) in [plibither8/made-with-love-in](https://github.com//plibither8/made-with-love-in)
+4. 🗣 Commented on [#3462](https://github.com//simple-icons/simple-icons/issues/3462) in [simple-icons/simple-icons](https://github.com//simple-icons/simple-icons)
+5. ❗️ Opened issue [#3475](https://github.com//simple-icons/simple-icons/issues/3475) in [simple-icons/simple-icons](https://github.com//simple-icons/simple-icons)
 <!--END_SECTION:activity-->
 
 <!-- Links of Definitions -->
