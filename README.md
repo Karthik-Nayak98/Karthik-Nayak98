@@ -61,10 +61,10 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#3462](https://github.com//simple-icons/simple-icons/issues/3462) in [simple-icons/simple-icons](https://github.com//simple-icons/simple-icons)
-2. ❗️ Opened issue [#3475](https://github.com//simple-icons/simple-icons/issues/3475) in [simple-icons/simple-icons](https://github.com//simple-icons/simple-icons)
+1. ❗️ Opened issue [#8](https://github.com//plibither8/made-with-love-in/issues/8) in [plibither8/made-with-love-in](https://github.com//plibither8/made-with-love-in)
+2. ❗️ Opened issue [#7](https://github.com//plibither8/made-with-love-in/issues/7) in [plibither8/made-with-love-in](https://github.com//plibither8/made-with-love-in)
 3. 🗣 Commented on [#3462](https://github.com//simple-icons/simple-icons/issues/3462) in [simple-icons/simple-icons](https://github.com//simple-icons/simple-icons)
-4. ❗️ Opened issue [#3472](https://github.com//simple-icons/simple-icons/issues/3472) in [simple-icons/simple-icons](https://github.com//simple-icons/simple-icons)
+4. ❗️ Opened issue [#3475](https://github.com//simple-icons/simple-icons/issues/3475) in [simple-icons/simple-icons](https://github.com//simple-icons/simple-icons)
 5. 🗣 Commented on [#3462](https://github.com//simple-icons/simple-icons/issues/3462) in [simple-icons/simple-icons](https://github.com//simple-icons/simple-icons)
 <!--END_SECTION:activity-->
 
