@@ -4,7 +4,7 @@
 
 <p align="center">
 <a href="https://github.com/KarthikNayak024/KarthikNayak024/blob/master/LICENCE">
-<img alt="Licence" src="https://img.shields.io/github/license/KarthikNayak024/KarthikNayak024?color=brightgreen"/>
+<img alt="Licence" src="https://img.shields.io/github/license/KarthikNayak024/KarthikNayak024?color=brightgreen&label=LICENCE&logo=MIT"/>
 </a>
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=karthiknayak024&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/KarthikNayak024/KarthikNayak024?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
@@ -67,11 +67,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#360](https://github.com//anuraghazra/github-readme-stats/issues/360) in [anuraghazra/github-readme-stats](https://github.com//anuraghazra/github-readme-stats)
-2. 💪 Opened PR [#100](https://github.com//manrajgrover/SingleDivProject/pull/100) in [manrajgrover/SingleDivProject](https://github.com//manrajgrover/SingleDivProject)
-3. ❌ Closed PR [#99](https://github.com//manrajgrover/SingleDivProject/pull/99) in [manrajgrover/SingleDivProject](https://github.com//manrajgrover/SingleDivProject)
-4. 💪 Opened PR [#99](https://github.com//manrajgrover/SingleDivProject/pull/99) in [manrajgrover/SingleDivProject](https://github.com//manrajgrover/SingleDivProject)
-5. ❗️ Opened issue [#368](https://github.com//anuraghazra/github-readme-stats/issues/368) in [anuraghazra/github-readme-stats](https://github.com//anuraghazra/github-readme-stats)
+1. 🗣 Commented on [#8](https://github.com//plibither8/made-with-love-in/issues/8) in [plibither8/made-with-love-in](https://github.com//plibither8/made-with-love-in)
+2. 🗣 Commented on [#7](https://github.com//plibither8/made-with-love-in/issues/7) in [plibither8/made-with-love-in](https://github.com//plibither8/made-with-love-in)
+3. 🗣 Commented on [#3489](https://github.com//simple-icons/simple-icons/issues/3489) in [simple-icons/simple-icons](https://github.com//simple-icons/simple-icons)
+4. 🗣 Commented on [#3489](https://github.com//simple-icons/simple-icons/issues/3489) in [simple-icons/simple-icons](https://github.com//simple-icons/simple-icons)
+5. 🗣 Commented on [#3475](https://github.com//simple-icons/simple-icons/issues/3475) in [simple-icons/simple-icons](https://github.com//simple-icons/simple-icons)
 <!--END_SECTION:activity-->
 
 <p align="center">
