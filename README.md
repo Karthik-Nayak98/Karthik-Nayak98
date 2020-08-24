@@ -45,17 +45,23 @@
 ![ReactJs](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react)
 ![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
 
-![Vim](https://img.shields.io/badge/-VIM-2B9348?style=for-the-badge&logo=vim)
-![VSCode](https://img.shields.io/badge/-vscode-00a8e8?style=for-the-badge&logo=visual-studio-code)
-![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-linux-772953?style=for-the-badge&logo=linux)
+![Vim](https://img.shields.io/badge/-VIM-019733?style=for-the-badge&logo=vim)
+![VSCode](https://img.shields.io/badge/-vscode-007ACC?style=for-the-badge&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 🌐 **Reach out to me:** ️
 
-[<img src="https://img.shields.io/badge/LinkedIn-karthik--nayak24-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=blue&&color=blue"/>][linkedin]
-[<img src="https://img.shields.io/badge/Gmail-karunayak63@gmail.com-informational?style=for-the-badge&labelColor=black&logoColor=d000000&logo=gmail&color=d00000"/>][gmail]
+[<img src="https://img.shields.io/badge/LinkedIn-karthik--nayak24-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&&color=0077b5"/>][linkedin]
+[<img src="https://img.shields.io/badge/Gmail-karunayak63@gmail.com-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=gmail&color=d14836"/>][gmail]
 [<img src="https://img.shields.io/badge/Github-karthikNayak024-informational?style=for-the-badge&labelColor=black&logo=github&color=7d88e6"/>][github]
-[<img src="https://img.shields.io/badge/Stackoverflow-karthik--nayak-informational?style=for-the-badge&labelColor=black&logo=stackoverflow&logoColor=f6511d&color=f6511d"/>][stackoverflow]
+[<img src="https://img.shields.io/badge/Stackoverflow-karthik--nayak-informational?style=for-the-badge&labelColor=black&logo=stackoverflow&logoColor=fe7a16&color=fe7a16"/>][stackoverflow]
+[<img src="https://img.shields.io/badge/Twitter-@KarthikNayak98-informational?style=for-the-badge&labelColor=black&logo=twitter&logoColor=#1DA1F2&color=1da1f2"/>][twitter]
+
+<!-- ## **Badges:**
+
+</a> <a href="https://archiveprogram.github.com/"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" width="40" height="40"></a>
+</a> <a href="https://github.com/pricing"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" width="40" height="40"></a> -->
 
 ## **🔥️ Recent Github Activity:**
 
@@ -68,6 +74,9 @@
 5. ❗️ Opened issue [#368](https://github.com//anuraghazra/github-readme-stats/issues/368) in [anuraghazra/github-readme-stats](https://github.com//anuraghazra/github-readme-stats)
 <!--END_SECTION:activity-->
 
+<p align="center">
+<img src="https://madewithlove.now.sh/in?heart=true&colorA=%23000000&colorB=%23dc0000&template=for-the-badge" alt="Made with love in India">
+</p>
 <!-- Links of Definitions -->
 
 [linkedin]: https://www.linkedin.com/in/karthik-nayak24
@@ -75,3 +84,4 @@
 [stackoverflow]: https://stackoverflow.com/users/9395755/karthik-nayak
 [github]: https://github.com/KarthikNayak024
 [licence]: https://github.com/KarthikNayak024/KarthikNayak024/blob/master/LICENSE
+[twitter]: https://twitter.com/KarthikNayak98
