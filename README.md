@@ -67,10 +67,10 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#3499](https://github.com//simple-icons/simple-icons/pull/3499) in [simple-icons/simple-icons](https://github.com//simple-icons/simple-icons)
-2. ❌ Closed PR [#3497](https://github.com//simple-icons/simple-icons/pull/3497) in [simple-icons/simple-icons](https://github.com//simple-icons/simple-icons)
-3. 💪 Opened PR [#3497](https://github.com//simple-icons/simple-icons/pull/3497) in [simple-icons/simple-icons](https://github.com//simple-icons/simple-icons)
-4. 🗣 Commented on [#3475](https://github.com//simple-icons/simple-icons/issues/3475) in [simple-icons/simple-icons](https://github.com//simple-icons/simple-icons)
+1. 🗣 Commented on [#116](https://github.com//gautamkrishnar/nothing-private/issues/116) in [gautamkrishnar/nothing-private](https://github.com//gautamkrishnar/nothing-private)
+2. 💪 Opened PR [#3499](https://github.com//simple-icons/simple-icons/pull/3499) in [simple-icons/simple-icons](https://github.com//simple-icons/simple-icons)
+3. ❌ Closed PR [#3497](https://github.com//simple-icons/simple-icons/pull/3497) in [simple-icons/simple-icons](https://github.com//simple-icons/simple-icons)
+4. 💪 Opened PR [#3497](https://github.com//simple-icons/simple-icons/pull/3497) in [simple-icons/simple-icons](https://github.com//simple-icons/simple-icons)
 5. 🗣 Commented on [#3475](https://github.com//simple-icons/simple-icons/issues/3475) in [simple-icons/simple-icons](https://github.com//simple-icons/simple-icons)
 <!--END_SECTION:activity-->
 
