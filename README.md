@@ -67,11 +67,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#3497](https://github.com//simple-icons/simple-icons/pull/3497) in [simple-icons/simple-icons](https://github.com//simple-icons/simple-icons)
-2. 🗣 Commented on [#3475](https://github.com//simple-icons/simple-icons/issues/3475) in [simple-icons/simple-icons](https://github.com//simple-icons/simple-icons)
-3. 🗣 Commented on [#3475](https://github.com//simple-icons/simple-icons/issues/3475) in [simple-icons/simple-icons](https://github.com//simple-icons/simple-icons)
-4. 🗣 Commented on [#8](https://github.com//plibither8/made-with-love-in/issues/8) in [plibither8/made-with-love-in](https://github.com//plibither8/made-with-love-in)
-5. 🗣 Commented on [#8](https://github.com//plibither8/made-with-love-in/issues/8) in [plibither8/made-with-love-in](https://github.com//plibither8/made-with-love-in)
+1. 💪 Opened PR [#3499](https://github.com//simple-icons/simple-icons/pull/3499) in [simple-icons/simple-icons](https://github.com//simple-icons/simple-icons)
+2. ❌ Closed PR [#3497](https://github.com//simple-icons/simple-icons/pull/3497) in [simple-icons/simple-icons](https://github.com//simple-icons/simple-icons)
+3. 💪 Opened PR [#3497](https://github.com//simple-icons/simple-icons/pull/3497) in [simple-icons/simple-icons](https://github.com//simple-icons/simple-icons)
+4. 🗣 Commented on [#3475](https://github.com//simple-icons/simple-icons/issues/3475) in [simple-icons/simple-icons](https://github.com//simple-icons/simple-icons)
+5. 🗣 Commented on [#3475](https://github.com//simple-icons/simple-icons/issues/3475) in [simple-icons/simple-icons](https://github.com//simple-icons/simple-icons)
 <!--END_SECTION:activity-->
 
 <p align="center">
