@@ -69,9 +69,9 @@
 
 1. 🗣 Commented on [#8](https://github.com//plibither8/made-with-love-in/issues/8) in [plibither8/made-with-love-in](https://github.com//plibither8/made-with-love-in)
 2. 🗣 Commented on [#8](https://github.com//plibither8/made-with-love-in/issues/8) in [plibither8/made-with-love-in](https://github.com//plibither8/made-with-love-in)
-3. ❗️ Opened issue [#3504](https://github.com//simple-icons/simple-icons/issues/3504) in [simple-icons/simple-icons](https://github.com//simple-icons/simple-icons)
-4. 🗣 Commented on [#3462](https://github.com//simple-icons/simple-icons/issues/3462) in [simple-icons/simple-icons](https://github.com//simple-icons/simple-icons)
-5. 🗣 Commented on [#116](https://github.com//gautamkrishnar/nothing-private/issues/116) in [gautamkrishnar/nothing-private](https://github.com//gautamkrishnar/nothing-private)
+3. 🗣 Commented on [#8](https://github.com//plibither8/made-with-love-in/issues/8) in [plibither8/made-with-love-in](https://github.com//plibither8/made-with-love-in)
+4. ❗️ Opened issue [#3504](https://github.com//simple-icons/simple-icons/issues/3504) in [simple-icons/simple-icons](https://github.com//simple-icons/simple-icons)
+5. 🗣 Commented on [#3462](https://github.com//simple-icons/simple-icons/issues/3462) in [simple-icons/simple-icons](https://github.com//simple-icons/simple-icons)
 <!--END_SECTION:activity-->
 
 <p align="center">
