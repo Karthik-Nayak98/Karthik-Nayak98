@@ -67,9 +67,9 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#11](https://github.com//ronatskiy/country-flags-svg/issues/11) in [ronatskiy/country-flags-svg](https://github.com//ronatskiy/country-flags-svg)
-2. 🗣 Commented on [#3499](https://github.com//simple-icons/simple-icons/issues/3499) in [simple-icons/simple-icons](https://github.com//simple-icons/simple-icons)
-3. 🗣 Commented on [#8](https://github.com//plibither8/made-with-love-in/issues/8) in [plibither8/made-with-love-in](https://github.com//plibither8/made-with-love-in)
+1. ❗️ Closed issue [#3504](https://github.com//simple-icons/simple-icons/issues/3504) in [simple-icons/simple-icons](https://github.com//simple-icons/simple-icons)
+2. ❗️ Opened issue [#11](https://github.com//ronatskiy/country-flags-svg/issues/11) in [ronatskiy/country-flags-svg](https://github.com//ronatskiy/country-flags-svg)
+3. 🗣 Commented on [#3499](https://github.com//simple-icons/simple-icons/issues/3499) in [simple-icons/simple-icons](https://github.com//simple-icons/simple-icons)
 4. 🗣 Commented on [#8](https://github.com//plibither8/made-with-love-in/issues/8) in [plibither8/made-with-love-in](https://github.com//plibither8/made-with-love-in)
 5. 🗣 Commented on [#8](https://github.com//plibither8/made-with-love-in/issues/8) in [plibither8/made-with-love-in](https://github.com//plibither8/made-with-love-in)
 <!--END_SECTION:activity-->
