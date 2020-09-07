@@ -29,7 +29,7 @@
 ## 📈 **Github Stats:**
 
 <a href="https://github.com/KarthikNayak024">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=KarthikNayak024&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true">
+<img width="170" align="center" src="https://github-readme-stats.vercel.app/api?username=KarthikNayak024&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true">
 </a>
 <a href="https://github.com/KarthikNayak024/github-readme-stats">
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=KarthikNayak024&layout=compact&theme=blue-green" />
@@ -75,8 +75,11 @@
 <!--END_SECTION:activity-->
 
 <p align="center">
-<img src="https://madewithlove.now.sh/in?heart=true&colorA=%23000000&colorB=%23dc0000&template=for-the-badge" alt="Made with love in India">
+<img src="https://img.shields.io/badge/made%20with%20%E2%9D%A4%20in%20-India-ff0019.svg?labelColor=black&style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwIDAgMjI1IDE1MCI+CjxyZWN0IHdpZHRoPSIyMjUiIGhlaWdodD0iMTUwIiBmaWxsPSIjZjkzIi8+CjxyZWN0IHdpZHRoPSIyMjUiIGhlaWdodD0iNTAiIHk9IjUwIiBmaWxsPSIjZmZmIi8+CjxyZWN0IHdpZHRoPSIyMjUiIGhlaWdodD0iNTAiIHk9IjEwMCIgZmlsbD0iIzEyODgwNyIvPgo8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxMTIuNSw3NSkiPgo8Y2lyY2xlIHI9IjIwIiBmaWxsPSIjMDA4Ii8+CjxjaXJjbGUgcj0iMTcuNSIgZmlsbD0iI2ZmZiIvPgo8Y2lyY2xlIHI9IjMuNSIgZmlsbD0iIzAwOCIvPgo8ZyBpZD0iZCI+CjxnIGlkPSJjIj4KPGcgaWQ9ImIiPgo8ZyBpZD0iYSI+CjxjaXJjbGUgcj0iMC44NzUiIGZpbGw9IiMwMDgiIHRyYW5zZm9ybT0icm90YXRlKDcuNSkgdHJhbnNsYXRlKDE3LjUpIi8+CjxwYXRoIGZpbGw9IiMwMDgiIGQ9Ik0gMCwxNy41IDAuNiw3IEMgMC42LDcgMCwyIDAsMiAwLDIgLTAuNiw3IC0wLjYsNyBMIDAsMTcuNSB6Ii8+CjwvZz4KPHVzZSB4bGluazpocmVmPSIjYSIgdHJhbnNmb3JtPSJyb3RhdGUoMTUpIi8+CjwvZz4KPHVzZSB4bGluazpocmVmPSIjYiIgdHJhbnNmb3JtPSJyb3RhdGUoMzApIi8+CjwvZz4KPHVzZSB4bGluazpocmVmPSIjYyIgdHJhbnNmb3JtPSJyb3RhdGUoNjApIi8+CjwvZz4KPHVzZSB4bGluazpocmVmPSIjZCIgdHJhbnNmb3JtPSJyb3RhdGUoMTIwKSIvPgo8dXNlIHhsaW5rOmhyZWY9IiNkIiB0cmFuc2Zvcm09InJvdGF0ZSgtMTIwKSIvPgo8L2c+Cjwvc3ZnPgo="/>
+
+<!-- <img src="https://madewithlove.now.sh/in?heart=true&colorA=%23000000&colorB=%23dc0000&template=for-the-badge️" alt="Made with love in India️"> -->
 </p>
+
 <!-- Links of Definitions -->
 
 [linkedin]: https://www.linkedin.com/in/karthik-nayak24
