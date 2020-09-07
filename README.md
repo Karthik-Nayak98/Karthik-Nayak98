@@ -29,13 +29,16 @@
 ## 📈 **Github Stats:**
 
 <a href="https://github.com/KarthikNayak024">
-<img width="170" align="center" src="https://github-readme-stats.vercel.app/api?username=KarthikNayak024&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true">
+<img width="440" align="center" src="https://github-readme-stats.vercel.app/api?username=KarthikNayak024&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true">
 </a>
 <a href="https://github.com/KarthikNayak024/github-readme-stats">
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=KarthikNayak024&layout=compact&theme=blue-green" />
 </a>
 
 </br>
+
+<!-- ## 🏆 **Github Profile Trophy:**
+ <img src="https://github-profile-trophy.vercel.app/?username=karthiknayak024&column=7&theme=gruvbox"/> -->
 
 ## 🛠️ **Languages & Tools:**
 
@@ -67,11 +70,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#8](https://github.com//plibither8/made-with-love-in/issues/8) in [plibither8/made-with-love-in](https://github.com//plibither8/made-with-love-in)
-2. 🗣 Commented on [#7](https://github.com//plibither8/made-with-love-in/issues/7) in [plibither8/made-with-love-in](https://github.com//plibither8/made-with-love-in)
-3. 🗣 Commented on [#3489](https://github.com//simple-icons/simple-icons/issues/3489) in [simple-icons/simple-icons](https://github.com//simple-icons/simple-icons)
-4. 🗣 Commented on [#3489](https://github.com//simple-icons/simple-icons/issues/3489) in [simple-icons/simple-icons](https://github.com//simple-icons/simple-icons)
-5. 🗣 Commented on [#3475](https://github.com//simple-icons/simple-icons/issues/3475) in [simple-icons/simple-icons](https://github.com//simple-icons/simple-icons)
+1. 🗣 Commented on [#3516](https://github.com//simple-icons/simple-icons/issues/3516) in [simple-icons/simple-icons](https://github.com//simple-icons/simple-icons)
+2. 🗣 Commented on [#3516](https://github.com//simple-icons/simple-icons/issues/3516) in [simple-icons/simple-icons](https://github.com//simple-icons/simple-icons)
+3. ❗️ Opened issue [#3516](https://github.com//simple-icons/simple-icons/issues/3516) in [simple-icons/simple-icons](https://github.com//simple-icons/simple-icons)
+4. 🗣 Commented on [#2](https://github.com//mrterranova/rainbowframes/issues/2) in [mrterranova/rainbowframes](https://github.com//mrterranova/rainbowframes)
+5. 🗣 Commented on [#360](https://github.com//anuraghazra/github-readme-stats/issues/360) in [anuraghazra/github-readme-stats](https://github.com//anuraghazra/github-readme-stats)
 <!--END_SECTION:activity-->
 
 <p align="center">
