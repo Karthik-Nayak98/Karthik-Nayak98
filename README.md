@@ -70,11 +70,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#3516](https://github.com//simple-icons/simple-icons/issues/3516) in [simple-icons/simple-icons](https://github.com//simple-icons/simple-icons)
-2. 🗣 Commented on [#3516](https://github.com//simple-icons/simple-icons/issues/3516) in [simple-icons/simple-icons](https://github.com//simple-icons/simple-icons)
-3. ❗️ Opened issue [#3516](https://github.com//simple-icons/simple-icons/issues/3516) in [simple-icons/simple-icons](https://github.com//simple-icons/simple-icons)
-4. 🗣 Commented on [#2](https://github.com//mrterranova/rainbowframes/issues/2) in [mrterranova/rainbowframes](https://github.com//mrterranova/rainbowframes)
-5. 🗣 Commented on [#360](https://github.com//anuraghazra/github-readme-stats/issues/360) in [anuraghazra/github-readme-stats](https://github.com//anuraghazra/github-readme-stats)
+1. 🗣 Commented on [#3516](https://github.com/simple-icons/simple-icons/issues/3516) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+2. 🗣 Commented on [#3516](https://github.com/simple-icons/simple-icons/issues/3516) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+3. ❗️ Opened issue [#3516](https://github.com/simple-icons/simple-icons/issues/3516) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+4. 🗣 Commented on [#2](https://github.com/mrterranova/rainbowframes/issues/2) in [mrterranova/rainbowframes](https://github.com/mrterranova/rainbowframes)
+5. 🗣 Commented on [#360](https://github.com/anuraghazra/github-readme-stats/issues/360) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 <!--END_SECTION:activity-->
 
 <p align="center">
