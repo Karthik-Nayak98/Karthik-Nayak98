@@ -70,11 +70,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#350](https://github.com/abhisheknaiidu/awesome-github-profile-readme/issues/350) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-2. 🗣 Commented on [#3499](https://github.com/simple-icons/simple-icons/issues/3499) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-3. 🗣 Commented on [#3516](https://github.com/simple-icons/simple-icons/issues/3516) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+1. 🗣 Commented on [#1](https://github.com/KarthikNayak024/Codeforces/issues/1) in [KarthikNayak024/Codeforces](https://github.com/KarthikNayak024/Codeforces)
+2. ❗️ Opened issue [#350](https://github.com/abhisheknaiidu/awesome-github-profile-readme/issues/350) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+3. 🗣 Commented on [#3499](https://github.com/simple-icons/simple-icons/issues/3499) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
 4. 🗣 Commented on [#3516](https://github.com/simple-icons/simple-icons/issues/3516) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-5. ❗️ Opened issue [#3516](https://github.com/simple-icons/simple-icons/issues/3516) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+5. 🗣 Commented on [#3516](https://github.com/simple-icons/simple-icons/issues/3516) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
 <!--END_SECTION:activity-->
 
 <p align="center">
