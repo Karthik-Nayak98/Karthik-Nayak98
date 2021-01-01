@@ -80,13 +80,8 @@
 
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
+  
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#362](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/362) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-2. 💪 Opened PR [#3626](https://github.com/simple-icons/simple-icons/pull/3626) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-3. 🗣 Commented on [#1](https://github.com/KarthikNayak024/Codeforces/issues/1) in [KarthikNayak024/Codeforces](https://github.com/KarthikNayak024/Codeforces)
-4. ❗️ Opened issue [#521](https://github.com/anuraghazra/github-readme-stats/issues/521) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-5. 🗣 Commented on [#1](https://github.com/KarthikNayak024/Codeforces/issues/1) in [KarthikNayak024/Codeforces](https://github.com/KarthikNayak024/Codeforces)
-<!--END_SECTION:activity-->
 
 </details>
 
