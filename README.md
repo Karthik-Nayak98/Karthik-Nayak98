@@ -66,6 +66,7 @@
   </a>
  </p>
 </details>
+
 <details>
  <summary>🏆 Github Profile Trophy </summary>
  </br>
@@ -76,12 +77,10 @@
  </p>
 </details>
 
-<!-- ## **🔥️ Recent Github Activity:**
-
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
   
-  <!--START_SECTION:activity-->
+    <!--START_SECTION:activity-->
 
 </details>
 
