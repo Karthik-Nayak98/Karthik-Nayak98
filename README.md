@@ -1,10 +1,11 @@
 # <p align="center">️ **Hello!!<img src="https://raw.githubusercontent.com/KarthikNayak024/KarthikNayak024/master/assets/wave.gif" alt="waving hand" width="30px">I'm Karthik Nayak** 🎯️🚀️</p>
 
 </br>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
+<img align="right" alt="coding" width="275" src="https://media.giphy.com/media/XcXx0WlV7L9cMKhA6G/giphy.gif">
+
 </br>
 
-## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
+## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me**
 
 - I'm aspiring 🔭️ Front-End Web Developer currently learning 🌱 **ReactJs**.
 - I always like working in 🐧️**Linux** Environment.
@@ -13,37 +14,31 @@
 ### &nbsp; &nbsp; &nbsp; &nbsp; **Keep Learning** 👨‍🎓️️
 
 <p align="center">
-  <a>
+   <img height="130" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif"/>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karthiknayak024&theme=radical&hide_border=true"/>
+   <img height="180" src="https://media.giphy.com/media/dxy1NTfA8CzwkgQXrp/giphy.gif">
 </p>
-
-
- 
 </br>
 
-<p align="center">
- 
- ## 🛠️ **Languages & Tools:** 
- 
-</p>
+##  <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40">  **Languages & Tools:** 
+
 <p align="center"> 
- 
-  <img align="center" style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" width="40"  />  
-  <img align="center" style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" width="40" />  
-  <img align="center" style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" width="40"  />  
-  <img align="center" style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" width="40" />  
-  <img align="center" style="margin: 10px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="40"  />  
   <img align="center" style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" width="40"  />  
+  <img align="center" style="margin: 10px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="40"  />  
+  <img align="center" style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" width="40"  />  
+  <img align="center" style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" width="40" />  
+  <img align="center" style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" width="40" />  
+  <img align="center" style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" width="40"  />  
   <img align="center" style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" width="40"  />  
   <img align="center" style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" width="40"  />  
   <img align="center" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" width="40px"/>
+   <img align="center" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" alt="vim" width="40" />
+   <img align="center" style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" width="40"  />  
   <img align="center" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" width="40" />
- <img align="center" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" alt="vim" width="40" />
-  <img align="center" style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" width="40"  />  
-</p>  
+</p>
 
 
-## 🌐 **Reach out to me:** ️
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Reach out to me:** ️
 
 [<img src="https://img.shields.io/badge/LinkedIn-karthik--nayak24-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&&color=0077b5"/>][linkedin]
 [<img src="https://img.shields.io/badge/Twitter-@KarthikNayak98-informational?style=for-the-badge&labelColor=black&logo=twitter&logoColor=#1DA1F2&color=1da1f2"/>][twitter]
@@ -53,7 +48,7 @@
  <img src="https://komarev.com/ghpvc/?username=karthiknayak024&&style=flat" align="center" />
 </p>  
 
-## 📈 **Github Stats:**
+## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40">  **Github Stats:**
 <details>
   <summary>📊 Github Profile stats </summary>
  </br>
@@ -79,15 +74,8 @@
 
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
-  
+  </br>
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#362](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/362) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-2. 💪 Opened PR [#3626](https://github.com/simple-icons/simple-icons/pull/3626) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-3. 🗣 Commented on [#1](https://github.com/KarthikNayak024/Codeforces/issues/1) in [KarthikNayak024/Codeforces](https://github.com/KarthikNayak024/Codeforces)
-4. ❗️ Opened issue [#521](https://github.com/anuraghazra/github-readme-stats/issues/521) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-5. 🗣 Commented on [#1](https://github.com/KarthikNayak024/Codeforces/issues/1) in [KarthikNayak024/Codeforces](https://github.com/KarthikNayak024/Codeforces)
-<!--END_SECTION:activity-->
-
 </details>
 
 
