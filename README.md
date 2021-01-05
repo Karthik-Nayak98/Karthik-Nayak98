@@ -12,9 +12,7 @@
 </br> 
 </br>
 <p align="center">
-   <img align="center" height="100" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif"/>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karthiknayak024&theme=radical&hide_border=true"/>
-   <img align="center"  height="180" src="https://media.giphy.com/media/dxy1NTfA8CzwkgQXrp/giphy.gif">
 </p>
 
 </br>
