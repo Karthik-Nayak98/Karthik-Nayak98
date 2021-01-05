@@ -2,19 +2,16 @@
 
 </br>
 <img align="right" alt="coding" width="275" src="https://media.giphy.com/media/XcXx0WlV7L9cMKhA6G/giphy.gif">
-
 </br>
 
-## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me**
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
 - I'm aspiring 🔭️ Front-End Web Developer currently learning 🌱 **ReactJs**.
 - I always like working in 🐧️**Linux** Environment.
 - I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
 
-### &nbsp; &nbsp; &nbsp; &nbsp; **Keep Learning** 👨‍🎓️️
-
 <p align="center">
-   <img height="130" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif"/>
+   <img height="120" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif"/>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karthiknayak024&theme=radical&hide_border=true"/>
    <img height="180" src="https://media.giphy.com/media/dxy1NTfA8CzwkgQXrp/giphy.gif">
 </p>
