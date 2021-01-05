@@ -71,8 +71,8 @@
 
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
-  </br>
   <!--START_SECTION:activity-->
+  
 </details>
 
 
