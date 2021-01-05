@@ -1,8 +1,7 @@
 # <p align="center">️ **Hello!!<img src="https://raw.githubusercontent.com/KarthikNayak024/KarthikNayak024/master/assets/wave.gif" alt="waving hand" width="30px">I'm Karthik Nayak** 🎯️🚀️</p>
 
 </br>
-<img align="right" alt="coding" width="275" src="https://media.giphy.com/media/XcXx0WlV7L9cMKhA6G/giphy.gif">
-</br>
+<img align="right" alt="coding" width="250" src="https://media.giphy.com/media/XcXx0WlV7L9cMKhA6G/giphy.gif">
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
@@ -10,11 +9,14 @@
 - I always like working in 🐧️**Linux** Environment.
 - I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
 
+</br> 
+</br>
 <p align="center">
-   <img height="120" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif"/>
+   <img align="center" height="100" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif"/>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karthiknayak024&theme=radical&hide_border=true"/>
-   <img height="180" src="https://media.giphy.com/media/dxy1NTfA8CzwkgQXrp/giphy.gif">
+   <img align="center"  height="180" src="https://media.giphy.com/media/dxy1NTfA8CzwkgQXrp/giphy.gif">
 </p>
+
 </br>
 
 ##  <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40">  **Languages & Tools:** 
