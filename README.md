@@ -1,4 +1,4 @@
-# <p align="center">️ **Hello!!<img src="https://raw.githubusercontent.com/KarthikNayak024/KarthikNayak024/master/assets/wave.gif" alt="waving hand" width="30px">I'm Karthik Nayak** 🎯️🚀️</p>
+# <p align="center">️ **Hello!!<img src="https://raw.githubusercontent.com/Karthik-Nayak98/Karthik-Nayak98/master/assets/wave.gif" alt="waving hand" width="30px">I'm Karthik Nayak** 🎯️🚀️</p>
 
 </br>
 <img align="right" alt="coding" width="250" src="https://media.giphy.com/media/XcXx0WlV7L9cMKhA6G/giphy.gif">
@@ -12,7 +12,7 @@
 </br> 
 </br>
 <p align="center">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karthiknayak024&theme=radical&hide_border=true"/>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Karthik-Nayak98&theme=radical&hide_border=true"/>
 </p>
 
 </br>
@@ -37,12 +37,12 @@
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Reach out to me:** ️
 
-[<img src="https://img.shields.io/badge/LinkedIn-karthik--nayak24-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&&color=0077b5"/>][linkedin]
+[<img src="https://img.shields.io/badge/LinkedIn-karthiknayak98-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&&color=0077b5"/>][linkedin]
 [<img src="https://img.shields.io/badge/Twitter-@KarthikNayak98-informational?style=for-the-badge&labelColor=black&logo=twitter&logoColor=#1DA1F2&color=1da1f2"/>][twitter]
 [<img src="https://img.shields.io/badge/Stackoverflow-karthik--nayak-informational?style=for-the-badge&labelColor=black&logo=stackoverflow&logoColor=fe7a16&color=fe7a16"/>][stackoverflow]
 
 <p align="center">
- <img src="https://komarev.com/ghpvc/?username=karthiknayak024&&style=flat" align="center" />
+ <img src="https://komarev.com/ghpvc/?username=karthik-nayak98&&style=flat" align="center" />
 </p>  
 
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40">  **Github Stats:**
@@ -50,11 +50,11 @@
   <summary>📊 Github Profile stats </summary>
  </br>
  <p align="center">
-  <a href="https://github.com/KarthikNayak024">
-   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=KarthikNayak024&show_icons=true&theme=radical&count_private=true">
+  <a href="https://github.com/Karthik-Nayak98">
+   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=Karthik-Nayak98&show_icons=true&theme=radical&count_private=true">
   </a>
-  <a href="https://github.com/KarthikNayak024/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=KarthikNayak024&layout=compact&theme=radical" />
+  <a href="https://github.com/Karthik-Nayak98/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Karthik-Nayak98&layout=compact&theme=radical" />
   </a>
  </p>
 </details>
@@ -64,7 +64,7 @@
  </br>
  <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-   <img src="https://github-profile-trophy.vercel.app/?username=karthiknayak024&column=8&theme=darkhub"/> 
+   <img src="https://github-profile-trophy.vercel.app/?username=Karthik-Nayak98&column=8&theme=darkhub"/> 
   </a>
  </p>
 </details>
