@@ -47,20 +47,20 @@
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
 
 <details>
-  <summary>📊 Github Profile stats </summary>
+  <summary>📊 Readme Stats</summary>
  </br>
  <p align="center">
   <a href="https://github.com/Karthik-Nayak98">
    <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=Karthik-Nayak98&show_icons=true&theme=radical&count_private=true">
   </a>
   <a href="https://github.com/Karthik-Nayak98/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Karthik-Nayak98&layout=compact&theme=radical" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Karthik-Nayak98&layout=compact&theme=radical&langs_count=6" />
   </a>
  </p>
 </details>
 
 <details>
- <summary>🏆 Github Profile Trophy </summary>
+ <summary>🏆 Github Trophy</summary>
  </br>
  <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -70,11 +70,8 @@
 </details>
 
 <details>
-  <summary>⚡ Recent GitHub Activity</summary>
-    <!--START_SECTION:activity-->
-1. 🗣 Commented on [#47](https://github.com/jamesgeorge007/github-activity-readme/issues/47) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-2. ❗️ Opened issue [#47](https://github.com/jamesgeorge007/github-activity-readme/issues/47) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-<!--END_SECTION:activity-->
+ <summary>⚡ Recent Activity</summary>
+ <!--START_SECTION:activity-->
 </details>
 
 <!--
