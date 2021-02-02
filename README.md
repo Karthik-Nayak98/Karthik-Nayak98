@@ -47,7 +47,7 @@
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
 
 <details>
-  <summary>📊 Readme Stats</summary>
+  <summary>📊 Github Readme Stats</summary>
  </br>
  <p align="center">
   <a href="https://github.com/Karthik-Nayak98">
@@ -60,7 +60,7 @@
 </details>
 
 <details>
- <summary>🏆 Github Trophy</summary>
+ <summary>🏆 Github Profile Trophy</summary>
  </br>
  <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -70,7 +70,7 @@
 </details>
 
 <details>
- <summary>⚡ Recent Activity</summary>
+ <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
 
