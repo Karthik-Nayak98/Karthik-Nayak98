@@ -73,9 +73,6 @@
  <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#362](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/362) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-2. ❗️ Closed issue [#47](https://github.com/jamesgeorge007/github-activity-readme/issues/47) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-<!--END_SECTION:activity-->
 
 </details>
 
