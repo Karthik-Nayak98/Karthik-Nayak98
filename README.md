@@ -73,11 +73,11 @@
  <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#871](https://github.com/EddieHubCommunity/support/issues/871) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. 🗣 Commented on [#1](https://github.com/Karthik-Nayak98/Rubiks-cube/issues/1) in [Karthik-Nayak98/Rubiks-cube](https://github.com/Karthik-Nayak98/Rubiks-cube)
-3. ❌ Closed PR [#362](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/362) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-4. ❗️ Closed issue [#47](https://github.com/jamesgeorge007/github-activity-readme/issues/47) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-5. 🗣 Commented on [#47](https://github.com/jamesgeorge007/github-activity-readme/issues/47) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+1. 💪 Opened PR [#5](https://github.com/codeSTACKr/free-developer-resources/pull/5) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
+2. 💪 Opened PR [#1](https://github.com/Karthik-Nayak98/free-developer-resources/pull/1) in [Karthik-Nayak98/free-developer-resources](https://github.com/Karthik-Nayak98/free-developer-resources)
+3. ❗️ Opened issue [#871](https://github.com/EddieHubCommunity/support/issues/871) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+4. 🗣 Commented on [#1](https://github.com/Karthik-Nayak98/Rubiks-cube/issues/1) in [Karthik-Nayak98/Rubiks-cube](https://github.com/Karthik-Nayak98/Rubiks-cube)
+5. ❌ Closed PR [#362](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/362) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 <!--END_SECTION:activity-->
 
 </details>
