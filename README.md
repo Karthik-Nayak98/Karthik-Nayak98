@@ -73,11 +73,11 @@
  <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10916](https://github.com/zero-to-mastery/start-here-guidelines/pull/10916) in [zero-to-mastery/start-here-guidelines](https://github.com/zero-to-mastery/start-here-guidelines)
-2. 🗣 Commented on [#5](https://github.com/codeSTACKr/free-developer-resources/issues/5) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-3. 💪 Opened PR [#5](https://github.com/codeSTACKr/free-developer-resources/pull/5) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-4. 💪 Opened PR [#1](https://github.com/Karthik-Nayak98/free-developer-resources/pull/1) in [Karthik-Nayak98/free-developer-resources](https://github.com/Karthik-Nayak98/free-developer-resources)
-5. ❗️ Opened issue [#871](https://github.com/EddieHubCommunity/support/issues/871) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+1. 🗣 Commented on [#844](https://github.com/anuraghazra/github-readme-stats/issues/844) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+2. 🗣 Commented on [#4940](https://github.com/simple-icons/simple-icons/issues/4940) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+3. 💪 Opened PR [#10916](https://github.com/zero-to-mastery/start-here-guidelines/pull/10916) in [zero-to-mastery/start-here-guidelines](https://github.com/zero-to-mastery/start-here-guidelines)
+4. 🗣 Commented on [#5](https://github.com/codeSTACKr/free-developer-resources/issues/5) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
+5. 💪 Opened PR [#5](https://github.com/codeSTACKr/free-developer-resources/pull/5) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
 <!--END_SECTION:activity-->
 
 </details>
