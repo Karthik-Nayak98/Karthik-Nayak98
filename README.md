@@ -74,10 +74,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#844](https://github.com/anuraghazra/github-readme-stats/issues/844) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-2. 🗣 Commented on [#4940](https://github.com/simple-icons/simple-icons/issues/4940) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-3. 💪 Opened PR [#10916](https://github.com/zero-to-mastery/start-here-guidelines/pull/10916) in [zero-to-mastery/start-here-guidelines](https://github.com/zero-to-mastery/start-here-guidelines)
-4. 🗣 Commented on [#5](https://github.com/codeSTACKr/free-developer-resources/issues/5) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-5. 💪 Opened PR [#5](https://github.com/codeSTACKr/free-developer-resources/pull/5) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
+2. 🗣 Commented on [#844](https://github.com/anuraghazra/github-readme-stats/issues/844) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+3. 🗣 Commented on [#4940](https://github.com/simple-icons/simple-icons/issues/4940) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+4. 💪 Opened PR [#10916](https://github.com/zero-to-mastery/start-here-guidelines/pull/10916) in [zero-to-mastery/start-here-guidelines](https://github.com/zero-to-mastery/start-here-guidelines)
+5. 🗣 Commented on [#5](https://github.com/codeSTACKr/free-developer-resources/issues/5) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
 <!--END_SECTION:activity-->
 
 </details>
