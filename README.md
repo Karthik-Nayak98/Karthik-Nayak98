@@ -73,11 +73,11 @@
  <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2707](https://github.com/simple-icons/simple-icons/issues/2707) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-2. 🗣 Commented on [#4940](https://github.com/simple-icons/simple-icons/issues/4940) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-3. 🗣 Commented on [#844](https://github.com/anuraghazra/github-readme-stats/issues/844) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-4. 🗣 Commented on [#844](https://github.com/anuraghazra/github-readme-stats/issues/844) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-5. 🗣 Commented on [#4940](https://github.com/simple-icons/simple-icons/issues/4940) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+1. ❌ Closed PR [#5044](https://github.com/simple-icons/simple-icons/pull/5044) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+2. 💪 Opened PR [#5044](https://github.com/simple-icons/simple-icons/pull/5044) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+3. 🗣 Commented on [#2707](https://github.com/simple-icons/simple-icons/issues/2707) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+4. 🗣 Commented on [#4940](https://github.com/simple-icons/simple-icons/issues/4940) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+5. 🗣 Commented on [#844](https://github.com/anuraghazra/github-readme-stats/issues/844) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 <!--END_SECTION:activity-->
 
 </details>
