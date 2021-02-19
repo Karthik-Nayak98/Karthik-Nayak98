@@ -74,10 +74,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#5045](https://github.com/simple-icons/simple-icons/issues/5045) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-2. 🗣 Commented on [#5045](https://github.com/simple-icons/simple-icons/issues/5045) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+2. 🗣 Commented on [#4205](https://github.com/simple-icons/simple-icons/issues/4205) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
 3. 🗣 Commented on [#5045](https://github.com/simple-icons/simple-icons/issues/5045) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
 4. 🗣 Commented on [#5045](https://github.com/simple-icons/simple-icons/issues/5045) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-5. 🗣 Commented on [#4205](https://github.com/simple-icons/simple-icons/issues/4205) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+5. 🗣 Commented on [#5045](https://github.com/simple-icons/simple-icons/issues/5045) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
 <!--END_SECTION:activity-->
 
 </details>
