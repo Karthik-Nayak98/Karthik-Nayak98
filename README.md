@@ -74,11 +74,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2276](https://github.com/TesseractCoding/NeoAlgo/issues/2276) in [TesseractCoding/NeoAlgo](https://github.com/TesseractCoding/NeoAlgo)
-2. 💪 Opened PR [#2276](https://github.com/TesseractCoding/NeoAlgo/pull/2276) in [TesseractCoding/NeoAlgo](https://github.com/TesseractCoding/NeoAlgo)
-3. 🗣 Commented on [#2211](https://github.com/TesseractCoding/NeoAlgo/issues/2211) in [TesseractCoding/NeoAlgo](https://github.com/TesseractCoding/NeoAlgo)
-4. ❗️ Opened issue [#2211](https://github.com/TesseractCoding/NeoAlgo/issues/2211) in [TesseractCoding/NeoAlgo](https://github.com/TesseractCoding/NeoAlgo)
-5. 🗣 Commented on [#4205](https://github.com/simple-icons/simple-icons/issues/4205) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+1. 🗣 Commented on [#37](https://github.com/sairish2001/makesmatheasy.github.io/issues/37) in [sairish2001/makesmatheasy.github.io](https://github.com/sairish2001/makesmatheasy.github.io)
+2. ❗️ Opened issue [#37](https://github.com/sairish2001/makesmatheasy.github.io/issues/37) in [sairish2001/makesmatheasy.github.io](https://github.com/sairish2001/makesmatheasy.github.io)
+3. 🗣 Commented on [#2276](https://github.com/TesseractCoding/NeoAlgo/issues/2276) in [TesseractCoding/NeoAlgo](https://github.com/TesseractCoding/NeoAlgo)
+4. 🗣 Commented on [#2276](https://github.com/TesseractCoding/NeoAlgo/issues/2276) in [TesseractCoding/NeoAlgo](https://github.com/TesseractCoding/NeoAlgo)
+5. 💪 Opened PR [#2276](https://github.com/TesseractCoding/NeoAlgo/pull/2276) in [TesseractCoding/NeoAlgo](https://github.com/TesseractCoding/NeoAlgo)
 <!--END_SECTION:activity-->
 
 </details>
