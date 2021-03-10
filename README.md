@@ -74,11 +74,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2364](https://github.com/TesseractCoding/NeoAlgo/issues/2364) in [TesseractCoding/NeoAlgo](https://github.com/TesseractCoding/NeoAlgo)
+1. 🗣 Commented on [#38](https://github.com/Girl-Code-It/Opportunity-Calendar-Frontend/issues/38) in [Girl-Code-It/Opportunity-Calendar-Frontend](https://github.com/Girl-Code-It/Opportunity-Calendar-Frontend)
 2. 🗣 Commented on [#2364](https://github.com/TesseractCoding/NeoAlgo/issues/2364) in [TesseractCoding/NeoAlgo](https://github.com/TesseractCoding/NeoAlgo)
-3. 🗣 Commented on [#38](https://github.com/Girl-Code-It/Opportunity-Calendar-Frontend/issues/38) in [Girl-Code-It/Opportunity-Calendar-Frontend](https://github.com/Girl-Code-It/Opportunity-Calendar-Frontend)
-4. ❗️ Opened issue [#38](https://github.com/Girl-Code-It/Opportunity-Calendar-Frontend/issues/38) in [Girl-Code-It/Opportunity-Calendar-Frontend](https://github.com/Girl-Code-It/Opportunity-Calendar-Frontend)
-5. ❗️ Opened issue [#2364](https://github.com/TesseractCoding/NeoAlgo/issues/2364) in [TesseractCoding/NeoAlgo](https://github.com/TesseractCoding/NeoAlgo)
+3. 🗣 Commented on [#2364](https://github.com/TesseractCoding/NeoAlgo/issues/2364) in [TesseractCoding/NeoAlgo](https://github.com/TesseractCoding/NeoAlgo)
+4. 🗣 Commented on [#38](https://github.com/Girl-Code-It/Opportunity-Calendar-Frontend/issues/38) in [Girl-Code-It/Opportunity-Calendar-Frontend](https://github.com/Girl-Code-It/Opportunity-Calendar-Frontend)
+5. ❗️ Opened issue [#38](https://github.com/Girl-Code-It/Opportunity-Calendar-Frontend/issues/38) in [Girl-Code-It/Opportunity-Calendar-Frontend](https://github.com/Girl-Code-It/Opportunity-Calendar-Frontend)
 <!--END_SECTION:activity-->
 
 </details>
