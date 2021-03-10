@@ -74,10 +74,10 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#8](https://github.com/anishanne/greeter/issues/8) in [anishanne/greeter](https://github.com/anishanne/greeter)
-2. ❗️ Opened issue [#7](https://github.com/anishanne/greeter/issues/7) in [anishanne/greeter](https://github.com/anishanne/greeter)
-3. 🗣 Commented on [#2364](https://github.com/TesseractCoding/NeoAlgo/issues/2364) in [TesseractCoding/NeoAlgo](https://github.com/TesseractCoding/NeoAlgo)
-4. 🗣 Commented on [#38](https://github.com/Girl-Code-It/Opportunity-Calendar-Frontend/issues/38) in [Girl-Code-It/Opportunity-Calendar-Frontend](https://github.com/Girl-Code-It/Opportunity-Calendar-Frontend)
+1. ❗️ Closed issue [#6](https://github.com/dreamer01/comments-emoji/issues/6) in [dreamer01/comments-emoji](https://github.com/dreamer01/comments-emoji)
+2. ❗️ Opened issue [#6](https://github.com/dreamer01/comments-emoji/issues/6) in [dreamer01/comments-emoji](https://github.com/dreamer01/comments-emoji)
+3. ❗️ Opened issue [#8](https://github.com/anishanne/greeter/issues/8) in [anishanne/greeter](https://github.com/anishanne/greeter)
+4. ❗️ Opened issue [#7](https://github.com/anishanne/greeter/issues/7) in [anishanne/greeter](https://github.com/anishanne/greeter)
 5. 🗣 Commented on [#2364](https://github.com/TesseractCoding/NeoAlgo/issues/2364) in [TesseractCoding/NeoAlgo](https://github.com/TesseractCoding/NeoAlgo)
 <!--END_SECTION:activity-->
 
