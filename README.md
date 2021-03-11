@@ -74,11 +74,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#37](https://github.com/sairish2001/makesmatheasy.github.io/issues/37) in [sairish2001/makesmatheasy.github.io](https://github.com/sairish2001/makesmatheasy.github.io)
-2. ❗️ Closed issue [#6](https://github.com/dreamer01/comments-emoji/issues/6) in [dreamer01/comments-emoji](https://github.com/dreamer01/comments-emoji)
-3. ❗️ Opened issue [#6](https://github.com/dreamer01/comments-emoji/issues/6) in [dreamer01/comments-emoji](https://github.com/dreamer01/comments-emoji)
-4. ❗️ Opened issue [#8](https://github.com/anishanne/greeter/issues/8) in [anishanne/greeter](https://github.com/anishanne/greeter)
-5. ❗️ Opened issue [#7](https://github.com/anishanne/greeter/issues/7) in [anishanne/greeter](https://github.com/anishanne/greeter)
+1. 💪 Opened PR [#88](https://github.com/sairish2001/makesmatheasy.github.io/pull/88) in [sairish2001/makesmatheasy.github.io](https://github.com/sairish2001/makesmatheasy.github.io)
+2. 🗣 Commented on [#37](https://github.com/sairish2001/makesmatheasy.github.io/issues/37) in [sairish2001/makesmatheasy.github.io](https://github.com/sairish2001/makesmatheasy.github.io)
+3. ❗️ Closed issue [#6](https://github.com/dreamer01/comments-emoji/issues/6) in [dreamer01/comments-emoji](https://github.com/dreamer01/comments-emoji)
+4. ❗️ Opened issue [#6](https://github.com/dreamer01/comments-emoji/issues/6) in [dreamer01/comments-emoji](https://github.com/dreamer01/comments-emoji)
+5. ❗️ Opened issue [#8](https://github.com/anishanne/greeter/issues/8) in [anishanne/greeter](https://github.com/anishanne/greeter)
 <!--END_SECTION:activity-->
 
 </details>
