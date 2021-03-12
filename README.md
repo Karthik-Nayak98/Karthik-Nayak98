@@ -74,11 +74,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#22](https://github.com/Karthik-Nayak98/test-action-repo/pull/22) in [Karthik-Nayak98/test-action-repo](https://github.com/Karthik-Nayak98/test-action-repo)
-2. 💪 Opened PR [#22](https://github.com/Karthik-Nayak98/test-action-repo/pull/22) in [Karthik-Nayak98/test-action-repo](https://github.com/Karthik-Nayak98/test-action-repo)
-3. ❌ Closed PR [#21](https://github.com/Karthik-Nayak98/test-action-repo/pull/21) in [Karthik-Nayak98/test-action-repo](https://github.com/Karthik-Nayak98/test-action-repo)
-4. 💪 Opened PR [#21](https://github.com/Karthik-Nayak98/test-action-repo/pull/21) in [Karthik-Nayak98/test-action-repo](https://github.com/Karthik-Nayak98/test-action-repo)
-5. ❌ Closed PR [#20](https://github.com/Karthik-Nayak98/test-action-repo/pull/20) in [Karthik-Nayak98/test-action-repo](https://github.com/Karthik-Nayak98/test-action-repo)
+1. ❗️ Opened issue [#28](https://github.com/Karthik-Nayak98/test-action-repo/issues/28) in [Karthik-Nayak98/test-action-repo](https://github.com/Karthik-Nayak98/test-action-repo)
+2. 💪 Opened PR [#27](https://github.com/Karthik-Nayak98/test-action-repo/pull/27) in [Karthik-Nayak98/test-action-repo](https://github.com/Karthik-Nayak98/test-action-repo)
+3. ❌ Closed PR [#26](https://github.com/Karthik-Nayak98/test-action-repo/pull/26) in [Karthik-Nayak98/test-action-repo](https://github.com/Karthik-Nayak98/test-action-repo)
+4. 💪 Opened PR [#26](https://github.com/Karthik-Nayak98/test-action-repo/pull/26) in [Karthik-Nayak98/test-action-repo](https://github.com/Karthik-Nayak98/test-action-repo)
+5. ❌ Closed PR [#25](https://github.com/Karthik-Nayak98/test-action-repo/pull/25) in [Karthik-Nayak98/test-action-repo](https://github.com/Karthik-Nayak98/test-action-repo)
 <!--END_SECTION:activity-->
 
 </details>
