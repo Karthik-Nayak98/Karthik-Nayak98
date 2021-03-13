@@ -75,10 +75,10 @@
 <!--START_SECTION:activity-->
 
 1. 🗣 Commented on [#2364](https://github.com/TesseractCoding/NeoAlgo/issues/2364) in [TesseractCoding/NeoAlgo](https://github.com/TesseractCoding/NeoAlgo)
-2. 💪 Opened PR [#48](https://github.com/Karthik-Nayak98/test-action-repo/pull/48) in [Karthik-Nayak98/test-action-repo](https://github.com/Karthik-Nayak98/test-action-repo)
-3. 🗣 Commented on [#2364](https://github.com/TesseractCoding/NeoAlgo/issues/2364) in [TesseractCoding/NeoAlgo](https://github.com/TesseractCoding/NeoAlgo)
-4. ❗️ Opened issue [#47](https://github.com/Karthik-Nayak98/test-action-repo/issues/47) in [Karthik-Nayak98/test-action-repo](https://github.com/Karthik-Nayak98/test-action-repo)
-5. ❗️ Opened issue [#46](https://github.com/Karthik-Nayak98/test-action-repo/issues/46) in [Karthik-Nayak98/test-action-repo](https://github.com/Karthik-Nayak98/test-action-repo)
+2. 💪 Opened PR [#49](https://github.com/Karthik-Nayak98/test-action-repo/pull/49) in [Karthik-Nayak98/test-action-repo](https://github.com/Karthik-Nayak98/test-action-repo)
+3. ❌ Closed PR [#48](https://github.com/Karthik-Nayak98/test-action-repo/pull/48) in [Karthik-Nayak98/test-action-repo](https://github.com/Karthik-Nayak98/test-action-repo)
+4. 🗣 Commented on [#2364](https://github.com/TesseractCoding/NeoAlgo/issues/2364) in [TesseractCoding/NeoAlgo](https://github.com/TesseractCoding/NeoAlgo)
+5. 💪 Opened PR [#48](https://github.com/Karthik-Nayak98/test-action-repo/pull/48) in [Karthik-Nayak98/test-action-repo](https://github.com/Karthik-Nayak98/test-action-repo)
 <!--END_SECTION:activity-->
 
 </details>
