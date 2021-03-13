@@ -74,11 +74,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#43](https://github.com/Karthik-Nayak98/test-action-repo/issues/43) in [Karthik-Nayak98/test-action-repo](https://github.com/Karthik-Nayak98/test-action-repo)
-2. ❗️ Opened issue [#42](https://github.com/Karthik-Nayak98/test-action-repo/issues/42) in [Karthik-Nayak98/test-action-repo](https://github.com/Karthik-Nayak98/test-action-repo)
-3. ❗️ Opened issue [#41](https://github.com/Karthik-Nayak98/test-action-repo/issues/41) in [Karthik-Nayak98/test-action-repo](https://github.com/Karthik-Nayak98/test-action-repo)
-4. ❗️ Opened issue [#40](https://github.com/Karthik-Nayak98/test-action-repo/issues/40) in [Karthik-Nayak98/test-action-repo](https://github.com/Karthik-Nayak98/test-action-repo)
-5. ❗️ Opened issue [#39](https://github.com/Karthik-Nayak98/test-action-repo/issues/39) in [Karthik-Nayak98/test-action-repo](https://github.com/Karthik-Nayak98/test-action-repo)
+1. ❗️ Opened issue [#45](https://github.com/Karthik-Nayak98/test-action-repo/issues/45) in [Karthik-Nayak98/test-action-repo](https://github.com/Karthik-Nayak98/test-action-repo)
+2. ❗️ Opened issue [#44](https://github.com/Karthik-Nayak98/test-action-repo/issues/44) in [Karthik-Nayak98/test-action-repo](https://github.com/Karthik-Nayak98/test-action-repo)
+3. ❗️ Opened issue [#43](https://github.com/Karthik-Nayak98/test-action-repo/issues/43) in [Karthik-Nayak98/test-action-repo](https://github.com/Karthik-Nayak98/test-action-repo)
+4. ❗️ Opened issue [#42](https://github.com/Karthik-Nayak98/test-action-repo/issues/42) in [Karthik-Nayak98/test-action-repo](https://github.com/Karthik-Nayak98/test-action-repo)
+5. ❗️ Opened issue [#41](https://github.com/Karthik-Nayak98/test-action-repo/issues/41) in [Karthik-Nayak98/test-action-repo](https://github.com/Karthik-Nayak98/test-action-repo)
 <!--END_SECTION:activity-->
 
 </details>
