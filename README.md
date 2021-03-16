@@ -74,11 +74,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#55](https://github.com/Karthik-Nayak98/test-action-repo/pull/55) in [Karthik-Nayak98/test-action-repo](https://github.com/Karthik-Nayak98/test-action-repo)
-2. 💪 Opened PR [#55](https://github.com/Karthik-Nayak98/test-action-repo/pull/55) in [Karthik-Nayak98/test-action-repo](https://github.com/Karthik-Nayak98/test-action-repo)
-3. 🎉 Merged PR [#54](https://github.com/Karthik-Nayak98/test-action-repo/pull/54) in [Karthik-Nayak98/test-action-repo](https://github.com/Karthik-Nayak98/test-action-repo)
-4. 💪 Opened PR [#54](https://github.com/Karthik-Nayak98/test-action-repo/pull/54) in [Karthik-Nayak98/test-action-repo](https://github.com/Karthik-Nayak98/test-action-repo)
-5. 🎉 Merged PR [#49](https://github.com/Karthik-Nayak98/test-action-repo/pull/49) in [Karthik-Nayak98/test-action-repo](https://github.com/Karthik-Nayak98/test-action-repo)
+1. 🎉 Merged PR [#56](https://github.com/Karthik-Nayak98/test-action-repo/pull/56) in [Karthik-Nayak98/test-action-repo](https://github.com/Karthik-Nayak98/test-action-repo)
+2. 💪 Opened PR [#56](https://github.com/Karthik-Nayak98/test-action-repo/pull/56) in [Karthik-Nayak98/test-action-repo](https://github.com/Karthik-Nayak98/test-action-repo)
+3. 🎉 Merged PR [#55](https://github.com/Karthik-Nayak98/test-action-repo/pull/55) in [Karthik-Nayak98/test-action-repo](https://github.com/Karthik-Nayak98/test-action-repo)
+4. 💪 Opened PR [#55](https://github.com/Karthik-Nayak98/test-action-repo/pull/55) in [Karthik-Nayak98/test-action-repo](https://github.com/Karthik-Nayak98/test-action-repo)
+5. 🎉 Merged PR [#54](https://github.com/Karthik-Nayak98/test-action-repo/pull/54) in [Karthik-Nayak98/test-action-repo](https://github.com/Karthik-Nayak98/test-action-repo)
 <!--END_SECTION:activity-->
 
 </details>
