@@ -74,11 +74,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#59](https://github.com/Karthik-Nayak98/test-action-repo/pull/59) in [Karthik-Nayak98/test-action-repo](https://github.com/Karthik-Nayak98/test-action-repo)
-2. 🗣 Commented on [#224](https://github.com/sairish2001/makesmatheasy.github.io/issues/224) in [sairish2001/makesmatheasy.github.io](https://github.com/sairish2001/makesmatheasy.github.io)
-3. 🗣 Commented on [#224](https://github.com/sairish2001/makesmatheasy.github.io/issues/224) in [sairish2001/makesmatheasy.github.io](https://github.com/sairish2001/makesmatheasy.github.io)
-4. ❗️ Opened issue [#224](https://github.com/sairish2001/makesmatheasy.github.io/issues/224) in [sairish2001/makesmatheasy.github.io](https://github.com/sairish2001/makesmatheasy.github.io)
-5. 🎉 Merged PR [#58](https://github.com/Karthik-Nayak98/test-action-repo/pull/58) in [Karthik-Nayak98/test-action-repo](https://github.com/Karthik-Nayak98/test-action-repo)
+1. 💪 Opened PR [#61](https://github.com/Karthik-Nayak98/test-action-repo/pull/61) in [Karthik-Nayak98/test-action-repo](https://github.com/Karthik-Nayak98/test-action-repo)
+2. ❗️ Closed issue [#46](https://github.com/Karthik-Nayak98/test-action-repo/issues/46) in [Karthik-Nayak98/test-action-repo](https://github.com/Karthik-Nayak98/test-action-repo)
+3. 🎉 Merged PR [#60](https://github.com/Karthik-Nayak98/test-action-repo/pull/60) in [Karthik-Nayak98/test-action-repo](https://github.com/Karthik-Nayak98/test-action-repo)
+4. 💪 Opened PR [#60](https://github.com/Karthik-Nayak98/test-action-repo/pull/60) in [Karthik-Nayak98/test-action-repo](https://github.com/Karthik-Nayak98/test-action-repo)
+5. 💪 Opened PR [#59](https://github.com/Karthik-Nayak98/test-action-repo/pull/59) in [Karthik-Nayak98/test-action-repo](https://github.com/Karthik-Nayak98/test-action-repo)
 <!--END_SECTION:activity-->
 
 </details>
