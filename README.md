@@ -74,11 +74,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#242](https://github.com/sairish2001/MakesMathEasy/issues/242) in [sairish2001/MakesMathEasy](https://github.com/sairish2001/MakesMathEasy)
-2. ❗️ Opened issue [#242](https://github.com/sairish2001/MakesMathEasy/issues/242) in [sairish2001/MakesMathEasy](https://github.com/sairish2001/MakesMathEasy)
-3. 💪 Opened PR [#61](https://github.com/Karthik-Nayak98/test-action-repo/pull/61) in [Karthik-Nayak98/test-action-repo](https://github.com/Karthik-Nayak98/test-action-repo)
-4. ❗️ Closed issue [#46](https://github.com/Karthik-Nayak98/test-action-repo/issues/46) in [Karthik-Nayak98/test-action-repo](https://github.com/Karthik-Nayak98/test-action-repo)
-5. 🎉 Merged PR [#60](https://github.com/Karthik-Nayak98/test-action-repo/pull/60) in [Karthik-Nayak98/test-action-repo](https://github.com/Karthik-Nayak98/test-action-repo)
+1. ❗️ Opened issue [#62](https://github.com/Karthik-Nayak98/test-action-repo/issues/62) in [Karthik-Nayak98/test-action-repo](https://github.com/Karthik-Nayak98/test-action-repo)
+2. 🗣 Commented on [#242](https://github.com/sairish2001/MakesMathEasy/issues/242) in [sairish2001/MakesMathEasy](https://github.com/sairish2001/MakesMathEasy)
+3. ❗️ Opened issue [#242](https://github.com/sairish2001/MakesMathEasy/issues/242) in [sairish2001/MakesMathEasy](https://github.com/sairish2001/MakesMathEasy)
+4. 💪 Opened PR [#61](https://github.com/Karthik-Nayak98/test-action-repo/pull/61) in [Karthik-Nayak98/test-action-repo](https://github.com/Karthik-Nayak98/test-action-repo)
+5. ❗️ Closed issue [#46](https://github.com/Karthik-Nayak98/test-action-repo/issues/46) in [Karthik-Nayak98/test-action-repo](https://github.com/Karthik-Nayak98/test-action-repo)
 <!--END_SECTION:activity-->
 
 </details>
