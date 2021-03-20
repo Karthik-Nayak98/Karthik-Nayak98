@@ -36,18 +36,21 @@
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Reach out to me:** ️
 
 <p align="center">
-<a href="https://twitter.com/karthiknayak98" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="karthiknayak98" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/karthiknayak98" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="karthiknayak98" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/9395755" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="9395755" height="30" width="40" /></a>
-<a href="mailto:karunayak63@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="karunayak63@gmail.com" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/KarthikNayak98" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="karthiknayak98" /></a>
+<a href="https://github.com/Karthik-Nayak98" target="blank"><img align="center" src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" alt="karthiknayak98" /></a>
+<a href="https://twitter.com/karthikNayak98" target="blank"><img align="center" src="https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white" alt="karthiknayak98" /></a>
+<a href="https://stackoverflow.com/users/9395755/karthiknayak98" target="blank"><img align="center" src="https://img.shields.io/badge/-StackOverflow-F48024?style=flat-square&logo=Stackoverflow&logoColor=white" alt="karthiknayak98" /></a>
+<a href="mailto:karunayak63@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="karthiknayak98" /></a>
+
+
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=karthik-nayak98&label=Profile%20views&color=0e75b6&style=flat" alt="karthik-nayak98" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=karthik-nayak98&label=Visitors&color=0088cc&style=flat-square" alt="karthik-nayak98" /> </p>
 
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
 
 <details>
-  <summary>📊 Github Readme Stats</summary>
+  <summary>📊 <b>Github Readme Stats</b></summary>
  </br>
  <p align="center">
   <a href="https://github.com/Karthik-Nayak98">
@@ -60,7 +63,7 @@
 </details>
 
 <details>
- <summary>🏆 Github Profile Trophy</summary>
+ <summary>🏆 <b>Github Profile Trophy</b></summary>
  </br>
  <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -70,7 +73,8 @@
 </details>
 
 <details>
- <summary>⚡ Recent Github Activity</summary>
+ </br>
+ <summary>⚡ <b>Recent Github Activity</b></summary>
 
 <!--START_SECTION:activity-->
 
@@ -83,7 +87,29 @@
 
 </details>
 
+<details>
+  <br />
+  <summary>⚙️ <b> Things I use to get stuff done</b></summary>
+  	<ul>
+  	    <li><b>OS:</b> Ubuntu 20.04</li>
+	    <li><b>Laptop: </b> Lenovo ideapad 310 (i5)</li>
+  	    <li><b>Browser: </b> Firefox Web Browser</li>
+	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
+	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
+	    <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin and Twitter.</li>
+	    <br />
+	</ul>
+</details>
+
+
 <!-- <p align="center">
+<a href="https://t.me/iampavangandhi" target="blank"><img align="center" src="https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white" alt="karthiknayak98" /></a>
+
+<a href="https://twitter.com/karthiknayak98" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="karthiknayak98" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/karthiknayak98" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="karthiknayak98" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/9395755" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="9395755" height="30" width="40" /></a>
+<a href="mailto:karunayak63@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="karunayak63@gmail.com" height="30" width="40" /></a>
+
   <img align="center" style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" width="40"  />
   <img align="center" style="margin: 10px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="40"  />
   <img align="center" style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" width="40"  />
