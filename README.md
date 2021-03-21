@@ -78,11 +78,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#137](https://github.com/Girl-Code-It/Opportunity-Calendar-Frontend/issues/137) in [Girl-Code-It/Opportunity-Calendar-Frontend](https://github.com/Girl-Code-It/Opportunity-Calendar-Frontend)
-2. 🗣 Commented on [#38](https://github.com/Girl-Code-It/Opportunity-Calendar-Frontend/issues/38) in [Girl-Code-It/Opportunity-Calendar-Frontend](https://github.com/Girl-Code-It/Opportunity-Calendar-Frontend)
-3. 💪 Opened PR [#268](https://github.com/sairish2001/MakesMathEasy/pull/268) in [sairish2001/MakesMathEasy](https://github.com/sairish2001/MakesMathEasy)
-4. ❗️ Opened issue [#62](https://github.com/Karthik-Nayak98/test-action-repo/issues/62) in [Karthik-Nayak98/test-action-repo](https://github.com/Karthik-Nayak98/test-action-repo)
-5. 🗣 Commented on [#242](https://github.com/sairish2001/MakesMathEasy/issues/242) in [sairish2001/MakesMathEasy](https://github.com/sairish2001/MakesMathEasy)
+1. 🗣 Commented on [#137](https://github.com/Girl-Code-It/Opportunity-Calendar-Frontend/issues/137) in [Girl-Code-It/Opportunity-Calendar-Frontend](https://github.com/Girl-Code-It/Opportunity-Calendar-Frontend)
+2. ❗️ Opened issue [#137](https://github.com/Girl-Code-It/Opportunity-Calendar-Frontend/issues/137) in [Girl-Code-It/Opportunity-Calendar-Frontend](https://github.com/Girl-Code-It/Opportunity-Calendar-Frontend)
+3. 🗣 Commented on [#38](https://github.com/Girl-Code-It/Opportunity-Calendar-Frontend/issues/38) in [Girl-Code-It/Opportunity-Calendar-Frontend](https://github.com/Girl-Code-It/Opportunity-Calendar-Frontend)
+4. 💪 Opened PR [#268](https://github.com/sairish2001/MakesMathEasy/pull/268) in [sairish2001/MakesMathEasy](https://github.com/sairish2001/MakesMathEasy)
+5. ❗️ Opened issue [#62](https://github.com/Karthik-Nayak98/test-action-repo/issues/62) in [Karthik-Nayak98/test-action-repo](https://github.com/Karthik-Nayak98/test-action-repo)
 <!--END_SECTION:activity-->
 
 </details>
