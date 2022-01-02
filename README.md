@@ -12,7 +12,7 @@
 </br>
 </br>
 <p align="center">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Karthik-Nayak98&theme=radical&hide_border=true"/>
+   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Karthik-Nayak98&theme=buefy&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
 </p>
 
 </br>
@@ -54,10 +54,10 @@
  </br>
  <p align="center">
   <a href="https://github.com/Karthik-Nayak98">
-   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=Karthik-Nayak98&show_icons=true&theme=radical&count_private=true">
+   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=Karthik-Nayak98&show_icons=true&theme=buefy&count_private=true">
   </a>
   <a href="https://github.com/Karthik-Nayak98/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Karthik-Nayak98&layout=compact&theme=radical&langs_count=6" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Karthik-Nayak98&layout=compact&theme=beufy&langs_count=6" />
   </a>
  </p>
 </details>
@@ -67,7 +67,7 @@
  </br>
  <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-   <img src="https://github-profile-trophy.vercel.app/?username=Karthik-Nayak98&column=8&theme=darkhub"/>
+   <img src="https://github-profile-trophy.vercel.app/?username=Karthik-Nayak98&column=8"/>
   </a>
  </p>
 </details>
