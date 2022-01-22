@@ -78,8 +78,8 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#3086](https://github.com/TesseractCoding/NeoAlgo/issues/3086) in [TesseractCoding/NeoAlgo](https://github.com/TesseractCoding/NeoAlgo)
-2. 🗣 Commented on [#3086](https://github.com/TesseractCoding/NeoAlgo/issues/3086) in [TesseractCoding/NeoAlgo](https://github.com/TesseractCoding/NeoAlgo)
+1. 🎉 Merged PR [#1](https://github.com/Karthik-Nayak98/e-commerce-app/pull/1) in [Karthik-Nayak98/e-commerce-app](https://github.com/Karthik-Nayak98/e-commerce-app)
+2. 💪 Opened PR [#1](https://github.com/Karthik-Nayak98/e-commerce-app/pull/1) in [Karthik-Nayak98/e-commerce-app](https://github.com/Karthik-Nayak98/e-commerce-app)
 3. 🗣 Commented on [#471](https://github.com/sairish2001/MakesMathEasy/issues/471) in [sairish2001/MakesMathEasy](https://github.com/sairish2001/MakesMathEasy)
 4. 🗣 Commented on [#137](https://github.com/Girl-Code-It/Opportunity-Calendar-Frontend/issues/137) in [Girl-Code-It/Opportunity-Calendar-Frontend](https://github.com/Girl-Code-It/Opportunity-Calendar-Frontend)
 5. ❗️ Opened issue [#137](https://github.com/Girl-Code-It/Opportunity-Calendar-Frontend/issues/137) in [Girl-Code-It/Opportunity-Calendar-Frontend](https://github.com/Girl-Code-It/Opportunity-Calendar-Frontend)
