@@ -1,18 +1,15 @@
-# <p align="center">️ **Hello!!<img src="https://raw.githubusercontent.com/Karthik-Nayak98/Karthik-Nayak98/master/assets/wave.gif" alt="waving hand" width="30px">I'm Karthik Nayak** 🎯️🚀️</p>
+<h2> 👋 Hey there! I'm Karthik Nayak</h2><img src="https://komarev.com/ghpvc/?username=karthik-nayak98&label=Visitors&color=32cd32&style=flat-square" alt="karthik-nayak98"/>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
+### 👨🏻‍💻 About Me
 
----
+💡 &nbsp;I'm a knowledge seeker & I love to learn explore new technologies.\
+💻 &nbsp;I'm currently working at Oracle Cloud as a Programmer Analyst.\
+📚 &nbsp;In my free time, I read books and listen to podcasts etc.\
+✉️ &nbsp;You can shoot me an email at nayakkarthik466@gmail.com! I'll try to respond as soon as I can.
 
-- I'm aspiring 🔭️ Front-End Web Developer currently learning 🌱 **ReactJs**.
-- I always like working in 🐧️**Linux** Environment.
-- I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
+### ⚙️ Tools and Technologies
 
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> **Languages & Tools:**
-
----
-
-<p align="center">
+<p align="left">
  <img align="center" src="assets/c.svg" alt="c"/>
  <img align="center" src="assets/c++.svg" alt="c++"/>
  <img align="center" src="assets/html.svg" alt="html"/>
@@ -27,17 +24,81 @@
 </p>
 
 
-## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Statistics:**
+### 📈 Analytics
 
-| <a href="https://github.com/Karthik-Nayak98"> <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=Karthik-Nayak98&show_icons=true&theme=buefy&count_private=true"> </a> | <a href="https://github.com/Karthik-Nayak98/github-readme-stats"> <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Karthik-Nayak98&layout=compact&theme=buefy&langs_count=6" /> </a> |
-| --- | --- |
-| <a href="https://stackoverflow.com/users/9395755/karthik-nayak98"><img src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=9395755"/></a> | <img width="430" src="https://github-readme-streak-stats.herokuapp.com/?&user=karthik-nayak98&theme=buefy"/> | 
+<p align="left">
+<a href="https://github.com/Karthik-Nayak98">
+  <img height='180em' src="https://github-readme-stats.vercel.app/api?username=Karthik-Nayak98&show_icons=true&theme=algolia&count_private=true">
+  <img height='180em' src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Karthik-Nayak98&layout=compact&theme=algolia&langs_count=8" />
+</a>
+</p>
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Reach out to me:** ️
+<p align="left">
+    <a href="https://github.com/Karthik-Nayak98">
+        <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?&user=karthik-nayak98&theme=algolia"/>
+    </a>
+    <a href="https://stackoverflow.com/users/9395755/karthik-nayak98">
+	<img width='330em' height='180em' src='https://stackoverflow-card.vercel.app/?userID=9395755&theme=solarizeddark'/>
+    </a>
+</p>
 
----
+### 🤝🏻 Connect with me!
 
-<div align="center">
+<p align="left">
+ <a href="https://twitter.com/karthiknayak98">
+  <img align="left" alt="Karthik Nayak | Twitter" width="30px" src="https://img.icons8.com/color/48/000000/twitter--v1.png" />
+ </a>
+ <a href="https://www.linkedin.com/in/karthiknayak98/">
+  <img align="left" alt="Karthik Nayak | LinkedIN" width="30px" src="https://img.icons8.com/color/50/000000/linkedin.png" />
+ </a>
+ <a href="https://stackoverflow.com/users/9395755/karthiknayak98" target="_blank">	
+  <img align="left" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png" alt="Karthik Nayak | Stack overflow" width="30px"/>
+ </a>	
+ <a href="mailto:karunayak63@gmail.com" target="blank">
+  <img align="left" src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Karthik Nayak | Gmail" width="30px"/>
+ </a>
+ <a href="https://github.com/Karthik-Nayak98" target="blank">
+  <img align="left" src="https://img.icons8.com/color/48/000000/github--v1.png" alt="Karthik Nayak | GitHub" width="30px"/>
+ </a>
+ <a href="https://karthiknayak.netlify.app/" target="blank">
+  <img align="left" src="https://img.icons8.com/color/48/000000/geography--v1.png" alt="Karthik Nayak | Website" width='30px' />
+ </a>
+	
+</p>
+
+<br/>
+
+### ☄️Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+
+1. 🎉 Merged PR [#1](https://github.com/Karthik-Nayak98/e-commerce-app/pull/1) in [Karthik-Nayak98/e-commerce-app](https://github.com/Karthik-Nayak98/e-commerce-app)
+2. 💪 Opened PR [#1](https://github.com/Karthik-Nayak98/e-commerce-app/pull/1) in [Karthik-Nayak98/e-commerce-app](https://github.com/Karthik-Nayak98/e-commerce-app)
+3. 🗣 Commented on [#471](https://github.com/sairish2001/MakesMathEasy/issues/471) in [sairish2001/MakesMathEasy](https://github.com/sairish2001/MakesMathEasy)
+4. 🗣 Commented on [#137](https://github.com/Girl-Code-It/Opportunity-Calendar-Frontend/issues/137) in [Girl-Code-It/Opportunity-Calendar-Frontend](https://github.com/Girl-Code-It/Opportunity-Calendar-Frontend)
+5. ❗️ Opened issue [#137](https://github.com/Girl-Code-It/Opportunity-Calendar-Frontend/issues/137) in [Girl-Code-It/Opportunity-Calendar-Frontend](https://github.com/Girl-Code-It/Opportunity-Calendar-Frontend)
+<!--END_SECTION:activity-->
+
+### 🐍 Watch my contribution eaten by snake!!
+
+<p align='left'>
+<img width="800em" height='180em' src="https://github.com/Karthik-Nayak98/Karthik-Nayak98/blob/output/github-contribution-grid-snake.gif" alt='snake gif'>
+</p>
+
+<!-- Links of Definitions -->
+
+[linkedin]: https://www.linkedin.com/in/karthik-nayak24
+[gmail]: mailto:karunayak63@gmail.com "Lets connect through email"
+[stackoverflow]: https://stackoverflow.com/users/9395755/karthiknayak98
+[github]: https://github.com/KarthikNayak024
+[licence]: https://github.com/KarthikNayak024/KarthikNayak024/blob/master/LICENSE
+[twitter]: https://twitter.com/KarthikNayak98
+
+
+<!-- Social links
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=karthik-nayak98&label=Visitors&color=0088cc&style=flat-square" alt="karthik-nayak98" /> </p>
+
  <a href="https://www.linkedin.com/in/karthiknayak98/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -53,36 +114,14 @@
 </a>
 <a href="mailto:karunayak63@gmail.com" target="blank"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="karthiknayak98" style="margin-bottom: 5px;"/></a>
 </div>
+-->
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=karthik-nayak98&label=Visitors&color=0088cc&style=flat-square" alt="karthik-nayak98" /> </p>
-
-## ⚡ <b>Recent Github Activity</b>
-
-<!--START_SECTION:activity-->
-
-1. 🎉 Merged PR [#1](https://github.com/Karthik-Nayak98/e-commerce-app/pull/1) in [Karthik-Nayak98/e-commerce-app](https://github.com/Karthik-Nayak98/e-commerce-app)
-2. 💪 Opened PR [#1](https://github.com/Karthik-Nayak98/e-commerce-app/pull/1) in [Karthik-Nayak98/e-commerce-app](https://github.com/Karthik-Nayak98/e-commerce-app)
-3. 🗣 Commented on [#471](https://github.com/sairish2001/MakesMathEasy/issues/471) in [sairish2001/MakesMathEasy](https://github.com/sairish2001/MakesMathEasy)
-4. 🗣 Commented on [#137](https://github.com/Girl-Code-It/Opportunity-Calendar-Frontend/issues/137) in [Girl-Code-It/Opportunity-Calendar-Frontend](https://github.com/Girl-Code-It/Opportunity-Calendar-Frontend)
-5. ❗️ Opened issue [#137](https://github.com/Girl-Code-It/Opportunity-Calendar-Frontend/issues/137) in [Girl-Code-It/Opportunity-Calendar-Frontend](https://github.com/Girl-Code-It/Opportunity-Calendar-Frontend)
-<!--END_SECTION:activity-->
-
-## Watch my contribution eaten by snake!!
-
-<p align='center'>
-<img src="https://github.com/Karthik-Nayak98/Karthik-Nayak98/blob/output/github-contribution-grid-snake.gif" alt='snake gif'>
-
-</p>
-<!-- Links of Definitions -->
-
-[linkedin]: https://www.linkedin.com/in/karthik-nayak24
-[gmail]: mailto:karunayak63@gmail.com "Lets connect through email"
-[stackoverflow]: https://stackoverflow.com/users/9395755/karthiknayak98
-[github]: https://github.com/KarthikNayak024
-[licence]: https://github.com/KarthikNayak024/KarthikNayak024/blob/master/LICENSE
-[twitter]: https://twitter.com/KarthikNayak98
-
-
+<!-- Gifs
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
+<img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40">
+<img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40">
+-->
 
 <!--
 
@@ -128,3 +167,11 @@
 
 -->
 
+
+<!--🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
+💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
+📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
+- I'm aspiring 🔭️ Front-End Web Developer currently learning 🌱 **ReactJs**.
+- I always like working in 🐧️**Linux** Environment.
+- I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
+-->
