@@ -1,12 +1,5 @@
 # <p align="center">️ **Hello!!<img src="https://raw.githubusercontent.com/Karthik-Nayak98/Karthik-Nayak98/master/assets/wave.gif" alt="waving hand" width="30px">I'm Karthik Nayak** 🎯️🚀️</p>
 
-<!-- ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232396F7&duration=5007&center=true&multiline=true&lines=Hello!!+I+am+Karthik+Nayak.)(https://git.io/typing-svg) -->
-
-</br>
-
-| [![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=9395755)](https://stackoverflow.com/users/9395755/karthik-nayak98) | <img src="https://github-readme-streak-stats.herokuapp.com/?&user=karthik-nayak98&theme=buefy"/> |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
 ---
@@ -14,14 +7,6 @@
 - I'm aspiring 🔭️ Front-End Web Developer currently learning 🌱 **ReactJs**.
 - I always like working in 🐧️**Linux** Environment.
 - I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
-
-</br>
-</br>
-<p align="center">
-   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Karthik-Nayak98&theme=buefy&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
-</p>
-
-</br>
 
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> **Languages & Tools:**
 
@@ -40,6 +25,13 @@
  <img align="center" src="assets/git.svg" alt="git"/>
  <img align="center" src="assets/linux.svg" alt="linux"/>
 </p>
+
+
+## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Statistics:**
+
+| <a href="https://github.com/Karthik-Nayak98"> <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=Karthik-Nayak98&show_icons=true&theme=buefy&count_private=true"> </a> | <a href="https://github.com/Karthik-Nayak98/github-readme-stats"> <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Karthik-Nayak98&layout=compact&theme=buefy&langs_count=6" /> </a> |
+| --- | --- |
+| <a href="https://stackoverflow.com/users/9395755/karthik-nayak98"><img src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=9395755"/></a> | <img width="430" src="https://github-readme-streak-stats.herokuapp.com/?&user=karthik-nayak98&theme=buefy"/> | 
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Reach out to me:** ️
 
@@ -64,8 +56,39 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=karthik-nayak98&label=Visitors&color=0088cc&style=flat-square" alt="karthik-nayak98" /> </p>
 
-## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
+## ⚡ <b>Recent Github Activity</b>
 
+<!--START_SECTION:activity-->
+
+1. 🎉 Merged PR [#1](https://github.com/Karthik-Nayak98/e-commerce-app/pull/1) in [Karthik-Nayak98/e-commerce-app](https://github.com/Karthik-Nayak98/e-commerce-app)
+2. 💪 Opened PR [#1](https://github.com/Karthik-Nayak98/e-commerce-app/pull/1) in [Karthik-Nayak98/e-commerce-app](https://github.com/Karthik-Nayak98/e-commerce-app)
+3. 🗣 Commented on [#471](https://github.com/sairish2001/MakesMathEasy/issues/471) in [sairish2001/MakesMathEasy](https://github.com/sairish2001/MakesMathEasy)
+4. 🗣 Commented on [#137](https://github.com/Girl-Code-It/Opportunity-Calendar-Frontend/issues/137) in [Girl-Code-It/Opportunity-Calendar-Frontend](https://github.com/Girl-Code-It/Opportunity-Calendar-Frontend)
+5. ❗️ Opened issue [#137](https://github.com/Girl-Code-It/Opportunity-Calendar-Frontend/issues/137) in [Girl-Code-It/Opportunity-Calendar-Frontend](https://github.com/Girl-Code-It/Opportunity-Calendar-Frontend)
+<!--END_SECTION:activity-->
+
+## Watch my contribution eaten by snake!!
+
+<p align='center'>
+<img src="https://github.com/Karthik-Nayak98/Karthik-Nayak98/blob/output/github-contribution-grid-snake.gif" alt='snake gif'>
+
+</p>
+<!-- Links of Definitions -->
+
+[linkedin]: https://www.linkedin.com/in/karthik-nayak24
+[gmail]: mailto:karunayak63@gmail.com "Lets connect through email"
+[stackoverflow]: https://stackoverflow.com/users/9395755/karthiknayak98
+[github]: https://github.com/KarthikNayak024
+[licence]: https://github.com/KarthikNayak024/KarthikNayak024/blob/master/LICENSE
+[twitter]: https://twitter.com/KarthikNayak98
+
+
+
+<!--
+
+<p align="center">
+   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Karthik-Nayak98&theme=buefy&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+</p>
 <details>
   <summary>📊 <b>Github Readme Stats</b></summary>
  </br>
@@ -90,21 +113,6 @@
 </details>
 
 <details>
- </br>
- <summary>⚡ <b>Recent Github Activity</b></summary>
-
-<!--START_SECTION:activity-->
-
-1. 🎉 Merged PR [#1](https://github.com/Karthik-Nayak98/e-commerce-app/pull/1) in [Karthik-Nayak98/e-commerce-app](https://github.com/Karthik-Nayak98/e-commerce-app)
-2. 💪 Opened PR [#1](https://github.com/Karthik-Nayak98/e-commerce-app/pull/1) in [Karthik-Nayak98/e-commerce-app](https://github.com/Karthik-Nayak98/e-commerce-app)
-3. 🗣 Commented on [#471](https://github.com/sairish2001/MakesMathEasy/issues/471) in [sairish2001/MakesMathEasy](https://github.com/sairish2001/MakesMathEasy)
-4. 🗣 Commented on [#137](https://github.com/Girl-Code-It/Opportunity-Calendar-Frontend/issues/137) in [Girl-Code-It/Opportunity-Calendar-Frontend](https://github.com/Girl-Code-It/Opportunity-Calendar-Frontend)
-5. ❗️ Opened issue [#137](https://github.com/Girl-Code-It/Opportunity-Calendar-Frontend/issues/137) in [Girl-Code-It/Opportunity-Calendar-Frontend](https://github.com/Girl-Code-It/Opportunity-Calendar-Frontend)
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
   <br />
   <summary>⚙️ <b> Things I use to get stuff done</b></summary>
   	<ul>
@@ -118,18 +126,5 @@
 	</ul>
 </details>
 
-<br/>
-Watch my contribution eaten by snake!!
+-->
 
-<p align='center'>
-<img src="https://github.com/Karthik-Nayak98/Karthik-Nayak98/blob/output/github-contribution-grid-snake.gif" alt='snake gif'>
-
-</p>
-<!-- Links of Definitions -->
-
-[linkedin]: https://www.linkedin.com/in/karthik-nayak24
-[gmail]: mailto:karunayak63@gmail.com "Lets connect through email"
-[stackoverflow]: https://stackoverflow.com/users/9395755/karthiknayak98
-[github]: https://github.com/KarthikNayak024
-[licence]: https://github.com/KarthikNayak024/KarthikNayak024/blob/master/LICENSE
-[twitter]: https://twitter.com/KarthikNayak98
