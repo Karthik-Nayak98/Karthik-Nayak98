@@ -5,7 +5,8 @@
 💡 &nbsp;I'm a knowledge seeker & I love to learn explore new technologies.\
 💻 &nbsp;I'm currently working at Oracle Cloud as a Programmer Analyst.\
 📚 &nbsp;In my free time, I read books and listen to podcasts etc.\
-✉️ &nbsp;You can shoot me an email at nayakkarthik466@gmail.com! I'll try to respond as soon as I can.
+✉️ &nbsp;You can shoot me an email at nayakkarthik466@gmail.com! I'll try to respond as soon as I can.\
+📄 &nbsp;Please have a look at my latest [Résumé](https://karthik-nayak98.github.io/resume) for more details about me. I'm open to feedback and suggestions!
 
 ### ⚙️ Tools and Technologies
 
@@ -170,7 +171,7 @@
 
 <!--🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Résumé](https://karthik-nayak98.github.io/resume) for more details about me. I'm open to feedback and suggestions!
 - I'm aspiring 🔭️ Front-End Web Developer currently learning 🌱 **ReactJs**.
 - I always like working in 🐧️**Linux** Environment.
 - I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
