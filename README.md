@@ -56,7 +56,7 @@
  <a href="https://stackoverflow.com/users/9395755/karthiknayak98" target="_blank">	
   <img align="left" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png" alt="Karthik Nayak | Stack overflow" width="30px"/>
  </a>	
- <a href="mailto:karunayak63@gmail.com" target="blank">
+ <a href="mailto:nayakkarthik466@gmail.com" target="blank">
   <img align="left" src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Karthik Nayak | Gmail" width="30px"/>
  </a>
  <a href="https://github.com/Karthik-Nayak98" target="blank">
@@ -90,7 +90,7 @@
 <!-- Links of Definitions -->
 
 [linkedin]: https://www.linkedin.com/in/karthik-nayak24
-[gmail]: mailto:karunayak63@gmail.com "Lets connect through email"
+[gmail]: mailto:nayakkarthik466@gmail.com "Lets connect through email"
 [stackoverflow]: https://stackoverflow.com/users/9395755/karthiknayak98
 [github]: https://github.com/KarthikNayak024
 [licence]: https://github.com/KarthikNayak024/KarthikNayak024/blob/master/LICENSE
