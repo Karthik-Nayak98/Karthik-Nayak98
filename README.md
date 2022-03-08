@@ -74,11 +74,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#49](https://github.com/keikaavousi/fake-store-api/issues/49) in [keikaavousi/fake-store-api](https://github.com/keikaavousi/fake-store-api)
-2. 🗣 Commented on [#14](https://github.com/antonkomarev/github-profile-views-counter/issues/14) in [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter)
-3. 🎉 Merged PR [#1](https://github.com/Karthik-Nayak98/e-commerce-app/pull/1) in [Karthik-Nayak98/e-commerce-app](https://github.com/Karthik-Nayak98/e-commerce-app)
-4. 💪 Opened PR [#1](https://github.com/Karthik-Nayak98/e-commerce-app/pull/1) in [Karthik-Nayak98/e-commerce-app](https://github.com/Karthik-Nayak98/e-commerce-app)
-5. ❗️ Opened issue [#137](https://github.com/Girl-Code-It/Opportunity-Calendar-Frontend/issues/137) in [Girl-Code-It/Opportunity-Calendar-Frontend](https://github.com/Girl-Code-It/Opportunity-Calendar-Frontend)
+1. 🗣 Commented on [#49](https://github.com/keikaavousi/fake-store-api/issues/49) in [keikaavousi/fake-store-api](https://github.com/keikaavousi/fake-store-api)
+2. ❗️ Opened issue [#49](https://github.com/keikaavousi/fake-store-api/issues/49) in [keikaavousi/fake-store-api](https://github.com/keikaavousi/fake-store-api)
+3. 🗣 Commented on [#14](https://github.com/antonkomarev/github-profile-views-counter/issues/14) in [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter)
+4. 🎉 Merged PR [#1](https://github.com/Karthik-Nayak98/e-commerce-app/pull/1) in [Karthik-Nayak98/e-commerce-app](https://github.com/Karthik-Nayak98/e-commerce-app)
+5. 💪 Opened PR [#1](https://github.com/Karthik-Nayak98/e-commerce-app/pull/1) in [Karthik-Nayak98/e-commerce-app](https://github.com/Karthik-Nayak98/e-commerce-app)
 <!--END_SECTION:activity-->
 
 ### 🐍 Watch my contribution eaten by snake!!
