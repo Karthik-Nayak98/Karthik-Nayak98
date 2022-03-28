@@ -74,11 +74,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#50](https://github.com/keikaavousi/fake-store-api/issues/50) in [keikaavousi/fake-store-api](https://github.com/keikaavousi/fake-store-api)
-2. ❗️ Opened issue [#51](https://github.com/keikaavousi/fake-store-api/issues/51) in [keikaavousi/fake-store-api](https://github.com/keikaavousi/fake-store-api)
-3. ❗️ Opened issue [#50](https://github.com/keikaavousi/fake-store-api/issues/50) in [keikaavousi/fake-store-api](https://github.com/keikaavousi/fake-store-api)
-4. 🗣 Commented on [#49](https://github.com/keikaavousi/fake-store-api/issues/49) in [keikaavousi/fake-store-api](https://github.com/keikaavousi/fake-store-api)
-5. ❗️ Opened issue [#49](https://github.com/keikaavousi/fake-store-api/issues/49) in [keikaavousi/fake-store-api](https://github.com/keikaavousi/fake-store-api)
+1. 🗣 Commented on [#132](https://github.com/panzerdp/dmitripavlutin.com-comments/issues/132) in [panzerdp/dmitripavlutin.com-comments](https://github.com/panzerdp/dmitripavlutin.com-comments)
+2. 🗣 Commented on [#50](https://github.com/keikaavousi/fake-store-api/issues/50) in [keikaavousi/fake-store-api](https://github.com/keikaavousi/fake-store-api)
+3. ❗️ Opened issue [#51](https://github.com/keikaavousi/fake-store-api/issues/51) in [keikaavousi/fake-store-api](https://github.com/keikaavousi/fake-store-api)
+4. ❗️ Opened issue [#50](https://github.com/keikaavousi/fake-store-api/issues/50) in [keikaavousi/fake-store-api](https://github.com/keikaavousi/fake-store-api)
+5. 🗣 Commented on [#49](https://github.com/keikaavousi/fake-store-api/issues/49) in [keikaavousi/fake-store-api](https://github.com/keikaavousi/fake-store-api)
 <!--END_SECTION:activity-->
 
 ### 🐍 Watch my contribution eaten by snake!!
