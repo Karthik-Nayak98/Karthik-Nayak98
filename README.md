@@ -18,7 +18,7 @@
  <img align="center" src="assets/javascript.svg" alt="Terminal"/>
  <img align="center" src="assets/python.svg" alt="python"/>
  <img align="center" src="assets/react.svg" alt="react"/>
- <img align="center" src="assets/tailwindcss.svg" alt="tailwindCSS"
+ <img align="center" src="assets/tailwindcss.svg" alt="tailwindCSS"/>
  <img align="center" src="/assets/vim.svg" alt="vim"/>
  <img align="center" src="assets/vscode.svg" alt="vscode"/>
  <img align="center" src="assets/git.svg" alt="git"/>
@@ -62,10 +62,9 @@
  <a href="https://github.com/Karthik-Nayak98" target="blank">
   <img align="left" src="https://img.icons8.com/color/48/000000/github--v1.png" alt="Karthik Nayak | GitHub" width="30px"/>
  </a>
- <a href="https://karthiknayak.netlify.app/" target="blank">
+ <a href="https://karthiknayak.in/" target="blank">
   <img align="left" src="https://img.icons8.com/color/48/000000/geography--v1.png" alt="Karthik Nayak | Website" width='30px' />
  </a>
-	
 </p>
 
 <br/>
