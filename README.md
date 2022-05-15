@@ -73,11 +73,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#3249](https://github.com/sanity-io/sanity/issues/3249) in [sanity-io/sanity](https://github.com/sanity-io/sanity)
-2. ❗️ Opened issue [#3249](https://github.com/sanity-io/sanity/issues/3249) in [sanity-io/sanity](https://github.com/sanity-io/sanity)
-3. 🗣 Commented on [#132](https://github.com/panzerdp/dmitripavlutin.com-comments/issues/132) in [panzerdp/dmitripavlutin.com-comments](https://github.com/panzerdp/dmitripavlutin.com-comments)
-4. 🗣 Commented on [#50](https://github.com/keikaavousi/fake-store-api/issues/50) in [keikaavousi/fake-store-api](https://github.com/keikaavousi/fake-store-api)
-5. ❗️ Opened issue [#51](https://github.com/keikaavousi/fake-store-api/issues/51) in [keikaavousi/fake-store-api](https://github.com/keikaavousi/fake-store-api)
+1. ❗️ Opened issue [#81](https://github.com/sadanandpai/resume-builder/issues/81) in [sadanandpai/resume-builder](https://github.com/sadanandpai/resume-builder)
+2. ❗️ Opened issue [#80](https://github.com/sadanandpai/resume-builder/issues/80) in [sadanandpai/resume-builder](https://github.com/sadanandpai/resume-builder)
+3. 🗣 Commented on [#3249](https://github.com/sanity-io/sanity/issues/3249) in [sanity-io/sanity](https://github.com/sanity-io/sanity)
+4. ❗️ Opened issue [#3249](https://github.com/sanity-io/sanity/issues/3249) in [sanity-io/sanity](https://github.com/sanity-io/sanity)
+5. 🗣 Commented on [#132](https://github.com/panzerdp/dmitripavlutin.com-comments/issues/132) in [panzerdp/dmitripavlutin.com-comments](https://github.com/panzerdp/dmitripavlutin.com-comments)
 <!--END_SECTION:activity-->
 
 ### 🐍 Watch my contribution eaten by snake!!
