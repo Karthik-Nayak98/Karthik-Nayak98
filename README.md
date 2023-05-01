@@ -73,7 +73,7 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#7](https://github.com/anishanne/greeter/issues/7) in [anishanne/greeter](https://github.com/anishanne/greeter)
+1. 🗣 Commented on [#22276](https://github.com/storybookjs/storybook/issues/22276) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
 2. ❗️ Closed issue [#8](https://github.com/anishanne/greeter/issues/8) in [anishanne/greeter](https://github.com/anishanne/greeter)
 3. 🗣 Commented on [#3249](https://github.com/sanity-io/sanity/issues/3249) in [sanity-io/sanity](https://github.com/sanity-io/sanity)
 4. ❗️ Opened issue [#3249](https://github.com/sanity-io/sanity/issues/3249) in [sanity-io/sanity](https://github.com/sanity-io/sanity)
