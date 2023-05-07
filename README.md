@@ -74,7 +74,7 @@
 <!--START_SECTION:activity-->
 
 1. 🗣 Commented on [#22276](https://github.com/storybookjs/storybook/issues/22276) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-2. ❗️ Closed issue [#8](https://github.com/anishanne/greeter/issues/8) in [anishanne/greeter](https://github.com/anishanne/greeter)
+2. 🗣 Commented on [#22276](https://github.com/storybookjs/storybook/issues/22276) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
 3. 🗣 Commented on [#3249](https://github.com/sanity-io/sanity/issues/3249) in [sanity-io/sanity](https://github.com/sanity-io/sanity)
 4. ❗️ Opened issue [#3249](https://github.com/sanity-io/sanity/issues/3249) in [sanity-io/sanity](https://github.com/sanity-io/sanity)
 5. 🗣 Commented on [#132](https://github.com/panzerdp/dmitripavlutin.com-comments/issues/132) in [panzerdp/dmitripavlutin.com-comments](https://github.com/panzerdp/dmitripavlutin.com-comments)
