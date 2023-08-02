@@ -73,8 +73,8 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#22276](https://github.com/storybookjs/storybook/issues/22276#issuecomment-1537294785) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-2. 🗣 Commented on [#22276](https://github.com/storybookjs/storybook/issues/22276#issuecomment-1529722792) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+1. ❗ Opened issue [#7872](https://github.com/codesandbox/codesandbox-client/issues/7872) in [codesandbox/codesandbox-client](https://github.com/codesandbox/codesandbox-client)
+2. 🗣 Commented on [#22276](https://github.com/storybookjs/storybook/issues/22276#issuecomment-1537294785) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
 3. 🗣 Commented on [#3249](https://github.com/sanity-io/sanity/issues/3249) in [sanity-io/sanity](https://github.com/sanity-io/sanity)
 4. ❗️ Opened issue [#3249](https://github.com/sanity-io/sanity/issues/3249) in [sanity-io/sanity](https://github.com/sanity-io/sanity)
 5. 🗣 Commented on [#132](https://github.com/panzerdp/dmitripavlutin.com-comments/issues/132) in [panzerdp/dmitripavlutin.com-comments](https://github.com/panzerdp/dmitripavlutin.com-comments)
