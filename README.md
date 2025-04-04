@@ -80,11 +80,11 @@
 5. 🗣 Commented on [#132](https://github.com/panzerdp/dmitripavlutin.com-comments/issues/132) in [panzerdp/dmitripavlutin.com-comments](https://github.com/panzerdp/dmitripavlutin.com-comments)
 <!--END_SECTION:activity-->
 
-### 🐍 Watch my contribution eaten by snake!!
+<!-- ### 🐍 Watch my contribution eaten by snake!!
 
-<p align='left'>
+ <p align='left'>
 <img width="800em" height='180em' src="https://github.com/Karthik-Nayak98/Karthik-Nayak98/blob/output/github-contribution-grid-snake.gif" alt='snake gif'>
-</p>
+</p> -->
 
 <!-- Links of Definitions -->
 
