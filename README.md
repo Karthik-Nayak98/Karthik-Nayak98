@@ -73,7 +73,7 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#7872](https://github.com/codesandbox/codesandbox-client/issues/7872) in [codesandbox/codesandbox-client](https://github.com/codesandbox/codesandbox-client)
+1. ❗ Opened issue [#1](https://github.com/Karthik-Nayak98/portfoliov3/issues/1) in [Karthik-Nayak98/portfoliov3](https://github.com/Karthik-Nayak98/portfoliov3)
 2. 🗣 Commented on [#22276](https://github.com/storybookjs/storybook/issues/22276#issuecomment-1537294785) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
 3. 🗣 Commented on [#3249](https://github.com/sanity-io/sanity/issues/3249) in [sanity-io/sanity](https://github.com/sanity-io/sanity)
 4. ❗️ Opened issue [#3249](https://github.com/sanity-io/sanity/issues/3249) in [sanity-io/sanity](https://github.com/sanity-io/sanity)
